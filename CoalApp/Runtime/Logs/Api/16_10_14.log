@@ -1,0 +1,3265 @@
+[ 2016-10-14T09:27:30+08:00 ] 192.168.0.164 /index.php/Api/UPload/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000541s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000649s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000726s ]
+ERR: 无法加载控制器:UPload
+
+[ 2016-10-14T09:27:47+08:00 ] 192.168.0.164 /index.php/Api/Upload/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000541s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000649s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000727s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000646s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000725s ]
+
+[ 2016-10-14T09:32:17+08:00 ] 192.168.0.164 /index.php/Api/Upload/baiduUpImg.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000526s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000607s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000688s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given /data/wwwroot/test.meiwenti.vip/ThinkPHP/Library/Think/Upload.class.php 第 170 行.
+ERR: 不存在的图像文件
+
+[ 2016-10-14T09:32:54+08:00 ] 192.168.0.164 /index.php/Api/Upload/baiduUpImg.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000520s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000600s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000675s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given /data/wwwroot/test.meiwenti.vip/ThinkPHP/Library/Think/Upload.class.php 第 170 行.
+ERR: 不存在的图像文件
+
+[ 2016-10-14T09:33:43+08:00 ] 192.168.0.164 /index.php/Api/Upload/baiduUpImg.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000524s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000614s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000693s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given /data/wwwroot/test.meiwenti.vip/ThinkPHP/Library/Think/Upload.class.php 第 170 行.
+ERR: 不存在的图像文件
+
+[ 2016-10-14T09:34:10+08:00 ] 192.168.0.164 /index.php/Api/Upload/baiduUpImg.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000526s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000598s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000678s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given /data/wwwroot/test.meiwenti.vip/ThinkPHP/Library/Think/Upload.class.php 第 170 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000621s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000701s ]
+
+[ 2016-10-14T09:35:15+08:00 ] 192.168.0.164 /index.php/Api/Upload/baiduUpImg.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000422s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000528s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000596s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given /data/wwwroot/test.meiwenti.vip/ThinkPHP/Library/Think/Upload.class.php 第 170 行.
+ERR: 不存在的图像文件
+
+[ 2016-10-14T09:35:46+08:00 ] 192.168.0.164 /index.php/Api/Upload/baiduUpImg.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000491s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000615s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000695s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given /data/wwwroot/test.meiwenti.vip/ThinkPHP/Library/Think/Upload.class.php 第 170 行.
+ERR: 不存在的图像文件
+
+[ 2016-10-14T09:36:17+08:00 ] 192.168.0.164 /index.php/Api/Upload/baiduUpImg.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000425s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000538s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000605s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given /data/wwwroot/test.meiwenti.vip/ThinkPHP/Library/Think/Upload.class.php 第 170 行.
+
+[ 2016-10-14T09:36:58+08:00 ] 192.168.0.164 /index.php/Api/Upload/baiduUpImg.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000446s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000561s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000632s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given /data/wwwroot/test.meiwenti.vip/ThinkPHP/Library/Think/Upload.class.php 第 170 行.
+
+[ 2016-10-14T09:38:40+08:00 ] 192.168.0.164 /index.php/Api/Upload/baiduUpImg.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000526s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000598s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000688s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given /data/wwwroot/test.meiwenti.vip/ThinkPHP/Library/Think/Upload.class.php 第 170 行.
+ERR: 不存在的图像文件
+
+[ 2016-10-14T09:39:15+08:00 ] 192.168.0.164 /index.php/Api/Upload/baiduUpImg.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000305s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000378s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000430s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given /data/wwwroot/test.meiwenti.vip/ThinkPHP/Library/Think/Upload.class.php 第 170 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000411s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000467s ]
+
+[ 2016-10-14T09:42:40+08:00 ] 192.168.0.164 /index.php/Api/Upload/editorUpImg.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000384s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000490s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000548s ]
+NOTIC: [2048] Only variables should be passed by reference /data/wwwroot/test.meiwenti.vip/CoalApp/Api/Controller/UploadController.class.php 第 56 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000498s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000562s ]
+
+[ 2016-10-14T09:43:17+08:00 ] 192.168.0.164 /index.php/Api/Upload/baiduUpImg.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000404s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000508s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000574s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given /data/wwwroot/test.meiwenti.vip/ThinkPHP/Library/Think/Upload.class.php 第 170 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000536s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000606s ]
+
+[ 2016-10-14T09:43:29+08:00 ] 192.168.0.164 /index.php/Api/Upload/editorUpImg.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000539s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000631s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000705s ]
+NOTIC: [2048] Only variables should be passed by reference /data/wwwroot/test.meiwenti.vip/CoalApp/Api/Controller/UploadController.class.php 第 56 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000632s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000714s ]
+
+[ 2016-10-14T09:44:24+08:00 ] 192.168.0.164 /index.php/Api/Upload/editorUpImg.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000368s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000448s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000503s ]
+NOTIC: [2048] Only variables should be passed by reference /data/wwwroot/test.meiwenti.vip/CoalApp/Api/Controller/UploadController.class.php 第 56 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000473s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000546s ]
+
+[ 2016-10-14T09:44:46+08:00 ] 192.168.0.164 /index.php/Api/Upload/editorUpImg.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000410s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000511s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000587s ]
+NOTIC: [2048] Only variables should be passed by reference /data/wwwroot/test.meiwenti.vip/CoalApp/Api/Controller/UploadController.class.php 第 56 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000543s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000610s ]
+
+[ 2016-10-14T09:45:17+08:00 ] 192.168.0.164 /index.php/Api/Upload/editorUpImg.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000454s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000566s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000633s ]
+NOTIC: [2048] Only variables should be passed by reference /data/wwwroot/test.meiwenti.vip/CoalApp/Api/Controller/UploadController.class.php 第 56 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000603s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000677s ]
+
+[ 2016-10-14T09:45:30+08:00 ] 192.168.0.164 /index.php/Api/Upload/editorUpImg.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000482s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000603s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000676s ]
+NOTIC: [2048] Only variables should be passed by reference /data/wwwroot/test.meiwenti.vip/CoalApp/Api/Controller/UploadController.class.php 第 56 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000553s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000622s ]
+
+[ 2016-10-14T09:47:07+08:00 ] 192.168.0.164 /index.php/Api/Upload/editorUpImg.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000451s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000564s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000629s ]
+NOTIC: [2048] Only variables should be passed by reference /data/wwwroot/test.meiwenti.vip/CoalApp/Api/Controller/UploadController.class.php 第 56 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000611s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000683s ]
+
+[ 2016-10-14T09:49:27+08:00 ] 192.168.0.164 /index.php/Api/Upload/editorUpImg.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000324s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000350s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000395s ]
+NOTIC: [2048] Only variables should be passed by reference /data/wwwroot/test.meiwenti.vip/CoalApp/Api/Controller/UploadController.class.php 第 56 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000374s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000425s ]
+
+[ 2016-10-14T09:50:20+08:00 ] 192.168.0.164 /index.php/Api/Upload/editorUpImg.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000308s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000383s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000432s ]
+NOTIC: [2048] Only variables should be passed by reference /data/wwwroot/test.meiwenti.vip/CoalApp/Api/Controller/UploadController.class.php 第 56 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000402s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000457s ]
+
+[ 2016-10-14T09:50:33+08:00 ] 192.168.0.164 /index.php/Api/Upload/editorUpImg.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000533s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000630s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000704s ]
+NOTIC: [2048] Only variables should be passed by reference /data/wwwroot/test.meiwenti.vip/CoalApp/Api/Controller/UploadController.class.php 第 56 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000635s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000717s ]
+
+[ 2016-10-14T09:50:43+08:00 ] 192.168.0.164 /index.php/Api/Upload/editorUpImg.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000527s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000599s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000671s ]
+NOTIC: [2048] Only variables should be passed by reference /data/wwwroot/test.meiwenti.vip/CoalApp/Api/Controller/UploadController.class.php 第 56 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000634s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000715s ]
+
+[ 2016-10-14T09:51:13+08:00 ] 192.168.0.164 /index.php/Api/Upload/editorUpImg.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000449s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000563s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000629s ]
+NOTIC: [2048] Only variables should be passed by reference /data/wwwroot/test.meiwenti.vip/CoalApp/Api/Controller/UploadController.class.php 第 56 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000598s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000670s ]
+
+[ 2016-10-14T09:51:40+08:00 ] 192.168.0.164 /index.php/Api/Upload/editorUpImg.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000488s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000610s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000681s ]
+NOTIC: [2048] Only variables should be passed by reference /data/wwwroot/test.meiwenti.vip/CoalApp/Api/Controller/UploadController.class.php 第 56 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000642s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000721s ]
+
+[ 2016-10-14T09:52:14+08:00 ] 192.168.0.164 /index.php/Api/Upload/editorUpImg.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000402s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000506s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000569s ]
+NOTIC: [2048] Only variables should be passed by reference /data/wwwroot/test.meiwenti.vip/CoalApp/Api/Controller/UploadController.class.php 第 56 行.
+NOTIC: [2] mkdir(): Permission denied /data/wwwroot/test.meiwenti.vip/CoalApp/Api/Controller/UploadController.class.php 第 75 行.
+NOTIC: [2] move_uploaded_file(/Public/u_img/2016/10//KCRFaOMdHw.jpg): failed to open stream: No such file or directory /data/wwwroot/test.meiwenti.vip/CoalApp/Api/Controller/UploadController.class.php 第 78 行.
+NOTIC: [2] move_uploaded_file(): Unable to move '/tmp/phpJcJWlV' to '/Public/u_img/2016/10//KCRFaOMdHw.jpg' /data/wwwroot/test.meiwenti.vip/CoalApp/Api/Controller/UploadController.class.php 第 78 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000532s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000588s ]
+
+[ 2016-10-14T09:52:56+08:00 ] 192.168.0.164 /index.php/Api/Upload/editorUpImg.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000409s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000510s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000571s ]
+NOTIC: [2048] Only variables should be passed by reference /data/wwwroot/test.meiwenti.vip/CoalApp/Api/Controller/UploadController.class.php 第 56 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000553s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000622s ]
+
+[ 2016-10-14T09:53:07+08:00 ] 192.168.0.164 /index.php/Api/Upload/editorUpImg.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000423s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000530s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000593s ]
+NOTIC: [2048] Only variables should be passed by reference /data/wwwroot/test.meiwenti.vip/CoalApp/Api/Controller/UploadController.class.php 第 56 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000550s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000621s ]
+
+[ 2016-10-14T09:55:44+08:00 ] 192.168.0.164 /index.php/Api/Upload/editorUpImg.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000378s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000480s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000536s ]
+NOTIC: [2048] Only variables should be passed by reference /data/wwwroot/test.meiwenti.vip/CoalApp/Api/Controller/UploadController.class.php 第 56 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000467s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000527s ]
+
+[ 2016-10-14T09:56:38+08:00 ] 192.168.0.164 /index.php/Api/Upload/editorUpImg.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000275s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000334s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000386s ]
+NOTIC: [2048] Only variables should be passed by reference /data/wwwroot/test.meiwenti.vip/CoalApp/Api/Controller/UploadController.class.php 第 56 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000369s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000415s ]
+
+[ 2016-10-14T10:01:13+08:00 ] 192.168.0.164 /index.php/Api/Upload/baiduUpImg.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000522s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000616s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000693s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given /data/wwwroot/test.meiwenti.vip/ThinkPHP/Library/Think/Upload.class.php 第 170 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000610s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000704s ]
+
+[ 2016-10-14T10:02:32+08:00 ] 192.168.0.164 /index.php/Api/Upload/baiduUpImg.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000356s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000448s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000507s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given /data/wwwroot/test.meiwenti.vip/ThinkPHP/Library/Think/Upload.class.php 第 170 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000281s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000321s ]
+
+[ 2016-10-14T10:05:28+08:00 ] 192.168.0.164 /index.php/Api/Upload/baiduUpImg.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000305s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000382s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000432s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given /data/wwwroot/test.meiwenti.vip/ThinkPHP/Library/Think/Upload.class.php 第 170 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000381s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000437s ]
+
+[ 2016-10-14T10:06:07+08:00 ] 192.168.0.164 /index.php/Api/Upload/baiduUpImg.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000355s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000444s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000502s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given /data/wwwroot/test.meiwenti.vip/ThinkPHP/Library/Think/Upload.class.php 第 170 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000320s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000375s ]
+
+[ 2016-10-14T10:11:33+08:00 ] 192.168.0.164 /index.php/Api/Upload/baiduUpImg.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000215s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000211s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000241s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given /data/wwwroot/test.meiwenti.vip/ThinkPHP/Library/Think/Upload.class.php 第 170 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000348s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000408s ]
+
+[ 2016-10-14T10:12:29+08:00 ] 192.168.0.164 /index.php/Api/Upload/baiduUpImg.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000368s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000462s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000521s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given /data/wwwroot/test.meiwenti.vip/ThinkPHP/Library/Think/Upload.class.php 第 170 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000338s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000398s ]
+
+[ 2016-10-14T10:14:37+08:00 ] 192.168.0.164 /index.php/Api/Upload/baiduUpImg.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000442s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000555s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000628s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given /data/wwwroot/test.meiwenti.vip/ThinkPHP/Library/Think/Upload.class.php 第 170 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000528s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000613s ]
+
+[ 2016-10-14T10:33:38+08:00 ] 192.168.0.164 /index.php/Api/Upload/baiduUpImg.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000487s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000589s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000663s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given /data/wwwroot/test.meiwenti.vip/ThinkPHP/Library/Think/Upload.class.php 第 170 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000500s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000572s ]
+
+[ 2016-10-14T11:10:56+08:00 ] 192.168.0.164 /index.php/Api/Upload/baiduUpImg.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000419s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000522s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000591s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given /data/wwwroot/test.meiwenti.vip/ThinkPHP/Library/Think/Upload.class.php 第 170 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000512s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000580s ]
+
+[ 2016-10-14T12:38:00+08:00 ] 192.168.0.138 /index.php/Api/Mes/regSendCode?tel_num=15889743922
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000360s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000455s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000512s ]
+
+[ 2016-10-14T12:39:55+08:00 ] 192.168.0.138 /index.php/Api/Mes/regSendCode?tel_num=15889743922
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000343s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000432s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000486s ]
+
+[ 2016-10-14T12:42:23+08:00 ] 192.168.0.138 /index.php/Api/Mes/regSendCode?tel_num=15889743922
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000320s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000385s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000432s ]
+
+[ 2016-10-14T12:42:57+08:00 ] 192.168.0.138 /index.php/Api/Trucker/reg/?acc=15889743922&add=x%20bvcxdd&idcard_num=&idcard_pic=&name=ggghhhg&pas=123456&ver_num=126697
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000223s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000275s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000310s ]
+SQL: SHOW COLUMNS FROM `coal_account` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `coal_account` WHERE `account` = '15889743922' LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2016-10-14T12:43:24+08:00 ] 192.168.0.138 /index.php/Api/Trucker/reg/?acc=15889743922&add=x%20bvcxdd&idcard_num=&idcard_pic=&name=ggghhhg&pas=123456&ver_num=126697
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000229s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000294s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000331s ]
+SQL: SHOW COLUMNS FROM `coal_account` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `coal_account` WHERE `account` = '15889743922' LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2016-10-14T13:45:39+08:00 ] 192.168.0.164 /index.php/Api/News/showNew
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000543s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000668s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000746s ]
+ERR: 模板不存在:./CoalApp/Api/View/News_showNew.html
+
+[ 2016-10-14T13:48:37+08:00 ] 192.168.0.164 /index.php/Api/News/showNew
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000410s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000520s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000585s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000070s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000131s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006460s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006518s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000168s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000211s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000503s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000553s ]
+
+[ 2016-10-14T13:49:11+08:00 ] 192.168.0.164 /index.php/Api/News/showNew
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000384s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000487s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000547s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000065s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000121s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006139s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006194s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000157s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000198s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000492s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000540s ]
+
+[ 2016-10-14T13:49:14+08:00 ] 192.168.0.164 /index.php/Api/News/showNew
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000529s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000607s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000683s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000079s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000150s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008038s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008105s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000190s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000241s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000589s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000648s ]
+
+[ 2016-10-14T13:53:40+08:00 ] 192.168.0.164 /index.php/Api/News/showNew
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000456s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000579s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000649s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000062s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000123s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006277s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006339s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000163s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000206s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000520s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000571s ]
+
+[ 2016-10-14T13:54:31+08:00 ] 192.168.0.164 /index.php/Api/News/showNew
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000525s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000610s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000687s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000081s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000152s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006928s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006998s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000185s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000234s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000599s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000656s ]
+
+[ 2016-10-14T13:55:56+08:00 ] 192.168.0.164 /index.php/Api/News/showNew
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000357s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000452s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000510s ]
+SQL: SHOW COLUMNS FROM `coal_news` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `coal_news` WHERE `id` = 0 LIMIT 1   [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000054s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000103s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004820s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004872s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000135s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000170s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000439s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000481s ]
+
+[ 2016-10-14T13:56:02+08:00 ] 192.168.0.164 /index.php/Api/News/showNew/id/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000541s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000652s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000730s ]
+SQL: SHOW COLUMNS FROM `coal_news` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `coal_news` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000068s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000133s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006366s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006433s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000174s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000220s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000551s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000617s ]
+
+[ 2016-10-14T13:56:15+08:00 ] 192.168.0.164 /index.php/Api/News/showNew/id/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000229s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000280s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000317s ]
+SQL: SHOW COLUMNS FROM `coal_news` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `coal_news` WHERE `id` = 2 LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000034s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000065s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.002680s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002715s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000091s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000113s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000260s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000287s ]
+
+[ 2016-10-14T13:57:15+08:00 ] 192.168.0.164 /index.php/Api/News/showNew/id/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000441s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000565s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000634s ]
+SQL: SHOW COLUMNS FROM `coal_news` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `coal_news`  [ RunTime:0.0008s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000059s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000116s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005391s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005449s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000168s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000208s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /data/wwwroot/test.meiwenti.vip/ThinkPHP/Common/functions.php:850) /data/wwwroot/test.meiwenti.vip/ThinkPHP/Library/Think/View.class.php 第 91 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /data/wwwroot/test.meiwenti.vip/ThinkPHP/Common/functions.php:850) /data/wwwroot/test.meiwenti.vip/ThinkPHP/Library/Think/View.class.php 第 92 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /data/wwwroot/test.meiwenti.vip/ThinkPHP/Common/functions.php:850) /data/wwwroot/test.meiwenti.vip/ThinkPHP/Library/Think/View.class.php 第 93 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000483s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000532s ]
+
+[ 2016-10-14T13:57:25+08:00 ] 192.168.0.164 /index.php/Api/News/showNew/id/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000518s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000687s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000763s ]
+SQL: SHOW COLUMNS FROM `coal_news` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `coal_news` WHERE `id` = 2  [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000053s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000107s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004911s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004968s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000159s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000197s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000455s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000499s ]
+
+[ 2016-10-14T13:58:30+08:00 ] 192.168.0.164 /index.php/Api/News/showNew/id/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000542s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000647s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000725s ]
+SQL: SHOW COLUMNS FROM `coal_news` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `coal_news` WHERE `id` = 2  [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000057s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000106s ]
+NOTIC: [8] Undefined index: title /data/wwwroot/test.meiwenti.vip/CoalApp/Runtime/Cache/Api/14d85b9d1ba49a7d8d687568ddc050d8.php 第 6 行.
+NOTIC: [8] Undefined index: title /data/wwwroot/test.meiwenti.vip/CoalApp/Runtime/Cache/Api/14d85b9d1ba49a7d8d687568ddc050d8.php 第 23 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005299s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005351s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000149s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000188s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000467s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000512s ]
+
+[ 2016-10-14T13:58:31+08:00 ] 192.168.0.164 /index.php/Api/News/showNew/id/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000445s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000560s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000629s ]
+SQL: SHOW COLUMNS FROM `coal_news` [ RunTime:0.0008s ]
+SQL: SELECT * FROM `coal_news` WHERE `id` = 2  [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000057s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000110s ]
+NOTIC: [8] Undefined index: title /data/wwwroot/test.meiwenti.vip/CoalApp/Runtime/Cache/Api/14d85b9d1ba49a7d8d687568ddc050d8.php 第 6 行.
+NOTIC: [8] Undefined index: title /data/wwwroot/test.meiwenti.vip/CoalApp/Runtime/Cache/Api/14d85b9d1ba49a7d8d687568ddc050d8.php 第 23 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005682s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005733s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000169s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000210s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000477s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000525s ]
+
+[ 2016-10-14T13:58:31+08:00 ] 192.168.0.164 /index.php/Api/News/showNew/id/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000286s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000349s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000394s ]
+SQL: SHOW COLUMNS FROM `coal_news` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `coal_news` WHERE `id` = 2  [ RunTime:0.0001s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000029s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000055s ]
+NOTIC: [8] Undefined index: title /data/wwwroot/test.meiwenti.vip/CoalApp/Runtime/Cache/Api/14d85b9d1ba49a7d8d687568ddc050d8.php 第 6 行.
+NOTIC: [8] Undefined index: title /data/wwwroot/test.meiwenti.vip/CoalApp/Runtime/Cache/Api/14d85b9d1ba49a7d8d687568ddc050d8.php 第 23 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.002456s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002488s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000083s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000103s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000233s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000256s ]
+
+[ 2016-10-14T13:58:31+08:00 ] 192.168.0.164 /index.php/Api/News/showNew/id/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000518s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000611s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000685s ]
+SQL: SHOW COLUMNS FROM `coal_news` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `coal_news` WHERE `id` = 2  [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000064s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000123s ]
+NOTIC: [8] Undefined index: title /data/wwwroot/test.meiwenti.vip/CoalApp/Runtime/Cache/Api/14d85b9d1ba49a7d8d687568ddc050d8.php 第 6 行.
+NOTIC: [8] Undefined index: title /data/wwwroot/test.meiwenti.vip/CoalApp/Runtime/Cache/Api/14d85b9d1ba49a7d8d687568ddc050d8.php 第 23 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006322s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006379s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000172s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000219s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000560s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000612s ]
+
+[ 2016-10-14T13:59:04+08:00 ] 192.168.0.164 /index.php/Api/News/showNew/id/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000541s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000648s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000726s ]
+SQL: SHOW COLUMNS FROM `coal_news` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `coal_news` WHERE `id` = 2  [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000065s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000125s ]
+NOTIC: [8] Undefined index: title /data/wwwroot/test.meiwenti.vip/CoalApp/Runtime/Cache/Api/14d85b9d1ba49a7d8d687568ddc050d8.php 第 6 行.
+NOTIC: [8] Undefined index: title /data/wwwroot/test.meiwenti.vip/CoalApp/Runtime/Cache/Api/14d85b9d1ba49a7d8d687568ddc050d8.php 第 23 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006501s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006559s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000174s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000219s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000561s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000614s ]
+
+[ 2016-10-14T13:59:04+08:00 ] 192.168.0.164 /index.php/Api/News/showNew/id/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000210s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000274s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000309s ]
+SQL: SHOW COLUMNS FROM `coal_news` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `coal_news` WHERE `id` = 2  [ RunTime:0.0001s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000029s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000055s ]
+NOTIC: [8] Undefined index: title /data/wwwroot/test.meiwenti.vip/CoalApp/Runtime/Cache/Api/14d85b9d1ba49a7d8d687568ddc050d8.php 第 6 行.
+NOTIC: [8] Undefined index: title /data/wwwroot/test.meiwenti.vip/CoalApp/Runtime/Cache/Api/14d85b9d1ba49a7d8d687568ddc050d8.php 第 23 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.002469s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002509s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000082s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000103s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000231s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000255s ]
+
+[ 2016-10-14T13:59:04+08:00 ] 192.168.0.164 /index.php/Api/News/showNew/id/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000177s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000223s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000253s ]
+SQL: SHOW COLUMNS FROM `coal_news` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `coal_news` WHERE `id` = 2  [ RunTime:0.0001s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000029s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000055s ]
+NOTIC: [8] Undefined index: title /data/wwwroot/test.meiwenti.vip/CoalApp/Runtime/Cache/Api/14d85b9d1ba49a7d8d687568ddc050d8.php 第 6 行.
+NOTIC: [8] Undefined index: title /data/wwwroot/test.meiwenti.vip/CoalApp/Runtime/Cache/Api/14d85b9d1ba49a7d8d687568ddc050d8.php 第 23 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.002467s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002492s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000095s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000117s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000236s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000260s ]
+
+[ 2016-10-14T13:59:24+08:00 ] 192.168.0.164 /index.php/Api/News/showNew/id/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000408s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000532s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000607s ]
+SQL: SHOW COLUMNS FROM `coal_news` [ RunTime:0.0008s ]
+SQL: SELECT * FROM `coal_news` WHERE `id` = 2 LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000055s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000108s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005351s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005409s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000155s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000196s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000491s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000537s ]
+
+[ 2016-10-14T13:59:25+08:00 ] 192.168.0.164 /index.php/Api/News/showNew/id/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000523s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000611s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000686s ]
+SQL: SHOW COLUMNS FROM `coal_news` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `coal_news` WHERE `id` = 2 LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000064s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000130s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006661s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006732s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000173s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000219s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000565s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000621s ]
+
+[ 2016-10-14T13:59:25+08:00 ] 192.168.0.164 /index.php/Api/News/showNew/id/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000171s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000214s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000243s ]
+SQL: SHOW COLUMNS FROM `coal_news` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `coal_news` WHERE `id` = 2 LIMIT 1   [ RunTime:0.0001s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000043s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000082s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.002430s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002461s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000084s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000104s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000228s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000252s ]
+
+[ 2016-10-14T14:00:00+08:00 ] 192.168.0.164 /index.php/Api/News/showNew/id/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000410s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000529s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000592s ]
+SQL: SHOW COLUMNS FROM `coal_news` [ RunTime:0.0008s ]
+SQL: SELECT * FROM `coal_news` WHERE `id` = 2 LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000059s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000114s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005455s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005514s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000155s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000194s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000493s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000541s ]
+
+[ 2016-10-14T14:00:48+08:00 ] 192.168.0.164 /index.php/Api/News/showNew/id/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000383s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000479s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000539s ]
+SQL: SHOW COLUMNS FROM `coal_news` [ RunTime:0.0008s ]
+SQL: SELECT * FROM `coal_news` WHERE `id` = 2 LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000052s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000101s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005341s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005406s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000165s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000217s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000457s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000502s ]
+
+[ 2016-10-14T14:00:50+08:00 ] 192.168.0.164 /index.php/Api/News/showNew/id/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000248s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000305s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000345s ]
+SQL: SHOW COLUMNS FROM `coal_news` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `coal_news` WHERE `id` = 2 LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000033s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000066s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003099s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003137s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000098s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000123s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000285s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000313s ]
+
+[ 2016-10-14T14:01:10+08:00 ] 192.168.0.164 /index.php/Api/News/showNew/id/24
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000479s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000609s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000686s ]
+SQL: SHOW COLUMNS FROM `coal_news` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `coal_news` WHERE `id` = 24 LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000059s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000119s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006575s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006642s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000183s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000230s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000541s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000593s ]
+
+[ 2016-10-14T14:01:38+08:00 ] 192.168.0.164 /index.php/Api/News/showNew/id/24
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000535s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000611s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000720s ]
+SQL: SHOW COLUMNS FROM `coal_news` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `coal_news` WHERE `id` = 24 LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000066s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000126s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006632s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006697s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000184s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000232s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000541s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000593s ]
+
+[ 2016-10-14T14:02:13+08:00 ] 192.168.0.164 /index.php/Api/News/showNew/id/24
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000525s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000613s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000687s ]
+SQL: SHOW COLUMNS FROM `coal_news` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `coal_news` WHERE `id` = 24 LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000062s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000121s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006247s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006311s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000171s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000216s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000566s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000618s ]
+
+[ 2016-10-14T14:02:29+08:00 ] 192.168.0.164 /index.php/Api/News/showNew/id/24
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000406s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000517s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000581s ]
+SQL: SHOW COLUMNS FROM `coal_news` [ RunTime:0.0008s ]
+SQL: SELECT * FROM `coal_news` WHERE `id` = 24 LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000057s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000115s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005643s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005705s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000172s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000217s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000497s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000546s ]
+
+[ 2016-10-14T14:03:55+08:00 ] 192.168.0.164 /index.php/Api/News/showNew/id/24
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000534s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000666s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000743s ]
+SQL: SHOW COLUMNS FROM `coal_news` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `coal_news` WHERE `id` = 24 LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000064s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000123s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006149s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006211s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000163s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000206s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000519s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000569s ]
+
+[ 2016-10-14T14:04:36+08:00 ] 192.168.0.164 /index.php/Api/News/showNew/id/24
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000358s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000455s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000511s ]
+SQL: SHOW COLUMNS FROM `coal_news` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `coal_news` WHERE `id` = 24 LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000032s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000061s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.002935s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002972s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000102s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000129s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000284s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000315s ]
+
+[ 2016-10-14T14:04:57+08:00 ] 192.168.0.164 /index.php/Api/News/showNew/id/24
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000449s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000575s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000644s ]
+SQL: SHOW COLUMNS FROM `coal_news` [ RunTime:0.0008s ]
+SQL: SELECT * FROM `coal_news` WHERE `id` = 24 LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000055s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000108s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005635s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005693s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000156s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000195s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000494s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000541s ]
+
+[ 2016-10-14T14:05:03+08:00 ] 192.168.0.164 /index.php/Api/News/showNew/id/24
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000407s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000513s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000576s ]
+SQL: SHOW COLUMNS FROM `coal_news` [ RunTime:0.0008s ]
+SQL: SELECT * FROM `coal_news` WHERE `id` = 24 LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000058s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000115s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005801s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005860s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000158s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000198s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000475s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000522s ]
+
+[ 2016-10-14T14:08:28+08:00 ] 192.168.0.164 /index.php/Api/News/showNew/id/24
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000360s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000450s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000507s ]
+SQL: SHOW COLUMNS FROM `coal_news` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `coal_news` WHERE `id` = 24 LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000043s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000083s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004087s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004131s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000123s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000154s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000366s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000403s ]
+
+[ 2016-10-14T14:08:54+08:00 ] 192.168.0.164 /index.php/Api/News/showNew/id/24
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000541s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000613s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000688s ]
+SQL: SHOW COLUMNS FROM `coal_news` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `coal_news` WHERE `id` = 24 LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000066s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000136s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006894s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006964s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000178s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000225s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000554s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000612s ]
+
+[ 2016-10-14T14:09:28+08:00 ] 192.168.0.164 /index.php/Api/News/showNew/id/24
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000537s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000660s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000737s ]
+SQL: SHOW COLUMNS FROM `coal_news` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `coal_news` WHERE `id` = 24 LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000074s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000150s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006766s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006832s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000177s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000223s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000562s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000619s ]
+
+[ 2016-10-14T14:09:39+08:00 ] 192.168.0.164 /index.php/Api/News/showNew/id/24
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000417s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000528s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000592s ]
+SQL: SHOW COLUMNS FROM `coal_news` [ RunTime:0.0008s ]
+SQL: SELECT * FROM `coal_news` WHERE `id` = 24 LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000057s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000112s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005548s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005604s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000164s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000207s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000482s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000530s ]
+
+[ 2016-10-14T14:09:39+08:00 ] 192.168.0.164 /index.php/Api/News/showNew/id/24
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000523s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000608s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000684s ]
+SQL: SHOW COLUMNS FROM `coal_news` [ RunTime:0.0008s ]
+SQL: SELECT * FROM `coal_news` WHERE `id` = 24 LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000059s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000140s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005594s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005650s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000156s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000196s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000492s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000541s ]
+
+[ 2016-10-14T14:09:40+08:00 ] 192.168.0.164 /index.php/Api/News/showNew/id/24
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000387s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000487s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000548s ]
+SQL: SHOW COLUMNS FROM `coal_news` [ RunTime:0.0008s ]
+SQL: SELECT * FROM `coal_news` WHERE `id` = 24 LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000055s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000103s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005361s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005415s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000146s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000185s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000460s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000505s ]
+
+[ 2016-10-14T14:10:22+08:00 ] 192.168.0.164 /index.php/Api/News/showNew/id/24
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000538s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000643s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000720s ]
+SQL: SHOW COLUMNS FROM `coal_news` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `coal_news` WHERE `id` = 24 LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000066s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000126s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006801s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006896s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000191s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000238s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000558s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000612s ]
+
+[ 2016-10-14T14:10:23+08:00 ] 192.168.0.164 /index.php/Api/News/showNew/id/24
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000380s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000482s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000541s ]
+SQL: SHOW COLUMNS FROM `coal_news` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `coal_news` WHERE `id` = 24 LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000048s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000089s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004145s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004188s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000122s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000153s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000365s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000410s ]
+
+[ 2016-10-14T14:10:35+08:00 ] 192.168.0.164 /index.php/Api/News/showNew/id/24
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000537s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000613s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000687s ]
+SQL: SHOW COLUMNS FROM `coal_news` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `coal_news` WHERE `id` = 24 LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000068s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000128s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006780s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006838s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000139s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000176s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000425s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000468s ]
+
+[ 2016-10-14T14:10:36+08:00 ] 192.168.0.164 /index.php/Api/News/showNew/id/24
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000254s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000302s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000341s ]
+SQL: SHOW COLUMNS FROM `coal_news` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `coal_news` WHERE `id` = 24 LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000034s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000062s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.002617s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002648s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000087s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000109s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000279s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000304s ]
+
+[ 2016-10-14T14:10:36+08:00 ] 192.168.0.164 /index.php/Api/News/showNew/id/24
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000437s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000563s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000632s ]
+SQL: SHOW COLUMNS FROM `coal_news` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `coal_news` WHERE `id` = 24 LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000065s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000127s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006451s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006516s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000163s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000206s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000542s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000592s ]
+
+[ 2016-10-14T14:10:45+08:00 ] 192.168.0.164 /index.php/Api/News/showNew/id/24
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000539s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000667s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000746s ]
+SQL: SHOW COLUMNS FROM `coal_news` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `coal_news` WHERE `id` = 24 LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000070s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000134s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006973s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007039s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000177s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000222s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000554s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000607s ]
+
+[ 2016-10-14T14:10:52+08:00 ] 192.168.0.164 /index.php/Api/News/showNew/id/24
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000538s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000645s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000721s ]
+SQL: SHOW COLUMNS FROM `coal_news` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `coal_news` WHERE `id` = 24 LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000072s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000137s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006985s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007053s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000186s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000235s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000534s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000581s ]
+
+[ 2016-10-14T14:11:09+08:00 ] 192.168.0.164 /index.php/Api/News/showNew/id/24
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000406s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000514s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000579s ]
+SQL: SHOW COLUMNS FROM `coal_news` [ RunTime:0.0008s ]
+SQL: SELECT * FROM `coal_news` WHERE `id` = 24 LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000059s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000115s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005838s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005899s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000168s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000208s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000479s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000529s ]
+
+[ 2016-10-14T14:11:19+08:00 ] 192.168.0.164 /index.php/Api/News/showNew/id/24
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000261s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000339s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000382s ]
+SQL: SHOW COLUMNS FROM `coal_news` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `coal_news` WHERE `id` = 24 LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000030s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000056s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.002543s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002574s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000086s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000107s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000229s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000254s ]
+
+[ 2016-10-14T14:11:31+08:00 ] 192.168.0.164 /index.php/Api/News/showNew/id/24
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000403s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000518s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000582s ]
+SQL: SHOW COLUMNS FROM `coal_news` [ RunTime:0.0008s ]
+SQL: SELECT * FROM `coal_news` WHERE `id` = 24 LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000058s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000110s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005649s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005706s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000166s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000206s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000477s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000524s ]
+
+[ 2016-10-14T14:11:33+08:00 ] 192.168.0.164 /index.php/Api/News/showNew/id/24
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000493s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000630s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000705s ]
+SQL: SHOW COLUMNS FROM `coal_news` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `coal_news` WHERE `id` = 24 LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000075s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000136s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006798s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006864s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000177s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000224s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000545s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000599s ]
+
+[ 2016-10-14T14:11:46+08:00 ] 192.168.0.164 /index.php/Api/News/showNew/id/24
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000382s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000494s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000554s ]
+SQL: SHOW COLUMNS FROM `coal_news` [ RunTime:0.0008s ]
+SQL: SELECT * FROM `coal_news` WHERE `id` = 24 LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000069s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000123s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005647s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005704s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000156s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000197s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000489s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000536s ]
+
+[ 2016-10-14T14:11:54+08:00 ] 192.168.0.164 /index.php/Api/News/showNew/id/24
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000184s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000222s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000252s ]
+SQL: SHOW COLUMNS FROM `coal_news` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `coal_news` WHERE `id` = 24 LIMIT 1   [ RunTime:0.0001s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000029s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000056s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.002601s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002632s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000087s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000107s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000231s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000256s ]
+
+[ 2016-10-14T14:11:55+08:00 ] 192.168.0.164 /index.php/Api/News/showNew/id/24
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000209s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000256s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000290s ]
+SQL: SHOW COLUMNS FROM `coal_news` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `coal_news` WHERE `id` = 24 LIMIT 1   [ RunTime:0.0001s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000037s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000066s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003110s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003146s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000096s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000121s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000279s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000311s ]
+
+[ 2016-10-14T14:11:55+08:00 ] 192.168.0.164 /index.php/Api/News/showNew/id/24
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000179s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000219s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000248s ]
+SQL: SHOW COLUMNS FROM `coal_news` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `coal_news` WHERE `id` = 24 LIMIT 1   [ RunTime:0.0001s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000036s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000062s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.002617s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002649s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000085s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000106s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000236s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000264s ]
+
+[ 2016-10-14T14:12:02+08:00 ] 192.168.0.164 /index.php/Api/News/showNew/id/24
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000429s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000530s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000594s ]
+SQL: SHOW COLUMNS FROM `coal_news` [ RunTime:0.0008s ]
+SQL: SELECT * FROM `coal_news` WHERE `id` = 24 LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000067s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000124s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006101s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006165s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000169s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000212s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000535s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000587s ]
+
+[ 2016-10-14T14:12:03+08:00 ] 192.168.0.164 /index.php/Api/News/showNew/id/24
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000450s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000579s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000647s ]
+SQL: SHOW COLUMNS FROM `coal_news` [ RunTime:0.0008s ]
+SQL: SELECT * FROM `coal_news` WHERE `id` = 24 LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000065s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000125s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006221s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006285s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000167s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000212s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000540s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000594s ]
+
+[ 2016-10-14T14:12:27+08:00 ] 192.168.0.164 /index.php/Api/News/showNew/id/24
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000181s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000229s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000257s ]
+SQL: SHOW COLUMNS FROM `coal_news` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `coal_news` WHERE `id` = 24 LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000028s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000056s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.002559s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002591s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000119s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000140s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000239s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000264s ]
+
+[ 2016-10-14T14:12:37+08:00 ] 192.168.0.164 /index.php/Api/News/showNew/id/24
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000487s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000630s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000705s ]
+SQL: SHOW COLUMNS FROM `coal_news` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `coal_news` WHERE `id` = 24 LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000049s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000092s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004554s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004612s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000174s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000209s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000416s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000457s ]
+
+[ 2016-10-14T14:12:47+08:00 ] 192.168.0.164 /index.php/Api/News/showNew/id/24
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000522s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000605s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000693s ]
+SQL: SHOW COLUMNS FROM `coal_news` [ RunTime:0.0008s ]
+SQL: SELECT * FROM `coal_news` WHERE `id` = 24 LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000047s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000088s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005344s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005394s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000122s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000153s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000417s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000453s ]
+
+[ 2016-10-14T14:12:57+08:00 ] 192.168.0.164 /index.php/Api/News/showNew/id/24
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000540s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000648s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000725s ]
+SQL: SHOW COLUMNS FROM `coal_news` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `coal_news` WHERE `id` = 24 LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000066s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000124s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006881s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006948s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000192s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000240s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000543s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000598s ]
+
+[ 2016-10-14T14:12:58+08:00 ] 192.168.0.164 /index.php/Api/News/showNew/id/24
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000413s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000528s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000591s ]
+SQL: SHOW COLUMNS FROM `coal_news` [ RunTime:0.0008s ]
+SQL: SELECT * FROM `coal_news` WHERE `id` = 24 LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000054s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000103s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005298s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005351s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000144s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000182s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000441s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000502s ]
+
+[ 2016-10-14T14:13:26+08:00 ] 192.168.0.164 /index.php/Api/News/showNew/id/24
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000437s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000571s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000642s ]
+SQL: SHOW COLUMNS FROM `coal_news` [ RunTime:0.0008s ]
+SQL: SELECT * FROM `coal_news` WHERE `id` = 24 LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000059s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000116s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005948s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006009s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000183s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000228s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000503s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000556s ]
+
+[ 2016-10-14T14:14:19+08:00 ] 192.168.0.164 /index.php/Api/News/showNew/id/24
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000525s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000608s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000684s ]
+SQL: SHOW COLUMNS FROM `coal_news` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `coal_news` WHERE `id` = 24 LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000066s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000127s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006755s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006822s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000177s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000223s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000550s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000605s ]
+
+[ 2016-10-14T14:14:45+08:00 ] 192.168.0.164 /index.php/Api/News/showNew/id/24
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000453s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000577s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000646s ]
+SQL: SHOW COLUMNS FROM `coal_news` [ RunTime:0.0008s ]
+SQL: SELECT * FROM `coal_news` WHERE `id` = 24 LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000063s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000117s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005900s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005960s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000161s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000205s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000498s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000549s ]
+
+[ 2016-10-14T14:14:46+08:00 ] 192.168.0.164 /index.php/Api/News/showNew/id/24
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000518s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000606s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000680s ]
+SQL: SHOW COLUMNS FROM `coal_news` [ RunTime:0.0008s ]
+SQL: SELECT * FROM `coal_news` WHERE `id` = 24 LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000067s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000126s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006380s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006441s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000162s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000206s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000519s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000569s ]
+
+[ 2016-10-14T14:14:47+08:00 ] 192.168.0.164 /index.php/Api/News/showNew/id/24
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000238s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000289s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000328s ]
+SQL: SHOW COLUMNS FROM `coal_news` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `coal_news` WHERE `id` = 24 LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000039s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000072s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003430s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003467s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000104s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000139s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000301s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000331s ]
+
+[ 2016-10-14T14:14:58+08:00 ] 192.168.0.164 /index.php/Api/News/showNew/id/24
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000537s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000648s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000725s ]
+SQL: SHOW COLUMNS FROM `coal_news` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `coal_news` WHERE `id` = 24 LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000067s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000128s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006717s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006783s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000173s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000220s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000553s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000607s ]
+
+[ 2016-10-14T14:14:59+08:00 ] 192.168.0.164 /index.php/Api/News/showNew/id/24
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000520s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000612s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000686s ]
+SQL: SHOW COLUMNS FROM `coal_news` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `coal_news` WHERE `id` = 24 LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000068s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000127s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006764s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006829s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000173s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000220s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000552s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000607s ]
+
+[ 2016-10-14T14:15:15+08:00 ] 192.168.0.164 /index.php/Api/News/showNew/id/24
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000473s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000631s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000706s ]
+SQL: SHOW COLUMNS FROM `coal_news` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `coal_news` WHERE `id` = 24 LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000065s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000126s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006430s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006494s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000174s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000220s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000562s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000611s ]
+
+[ 2016-10-14T14:15:34+08:00 ] 192.168.0.164 /index.php/Api/News/showNew/id/24
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000400s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000435s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000491s ]
+SQL: SHOW COLUMNS FROM `coal_news` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `coal_news` WHERE `id` = 24 LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000055s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000101s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004930s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004981s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000149s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000186s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000423s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000465s ]
+
+[ 2016-10-14T14:15:35+08:00 ] 192.168.0.164 /index.php/Api/News/showNew/id/24
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000401s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000514s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000589s ]
+SQL: SHOW COLUMNS FROM `coal_news` [ RunTime:0.0008s ]
+SQL: SELECT * FROM `coal_news` WHERE `id` = 24 LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000062s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000124s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006218s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006285s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000162s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000206s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000542s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000596s ]
+
+[ 2016-10-14T14:15:36+08:00 ] 192.168.0.164 /index.php/Api/News/showNew/id/24
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000207s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000259s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000294s ]
+SQL: SHOW COLUMNS FROM `coal_news` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `coal_news` WHERE `id` = 24 LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000036s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000067s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003141s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003177s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000094s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000119s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000274s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000302s ]
+
+[ 2016-10-14T14:16:28+08:00 ] 192.168.0.164 /index.php/Api/News/showNew/id/24
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000525s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000616s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000690s ]
+SQL: SHOW COLUMNS FROM `coal_news` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `coal_news` WHERE `id` = 24 LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000067s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000128s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006782s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006847s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000172s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000218s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000547s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000603s ]
+
+[ 2016-10-14T14:17:14+08:00 ] 192.168.0.164 /index.php/Api/News/showNew/id/24
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000535s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000658s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000735s ]
+SQL: SHOW COLUMNS FROM `coal_news` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `coal_news` WHERE `id` = 24 LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000066s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000140s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006797s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006863s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000173s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000220s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000545s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000610s ]
+
+[ 2016-10-14T14:19:58+08:00 ] 192.168.0.164 /index.php/Api/News/showNew/id/24
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000441s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000561s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000630s ]
+SQL: SHOW COLUMNS FROM `coal_news` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `coal_news` WHERE `id` = 24 LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000052s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000099s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004967s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005019s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000138s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000176s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000437s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000479s ]
+
+[ 2016-10-14T14:19:58+08:00 ] 192.168.0.164 /index.php/Api/News/showNew/id/2016-10-14/lit_58004cc0d76f7.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000177s ]
+
+[ 2016-10-14T14:19:59+08:00 ] 192.168.0.164 /index.php/Api/News/showNew/id/24
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000353s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000450s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000507s ]
+SQL: SHOW COLUMNS FROM `coal_news` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `coal_news` WHERE `id` = 24 LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000052s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000099s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005009s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005060s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000140s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000177s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000431s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000473s ]
+
+[ 2016-10-14T14:19:59+08:00 ] 192.168.0.164 /index.php/Api/News/showNew/id/2016-10-14/lit_58004cc0d76f7.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000210s ]
+
+[ 2016-10-14T14:20:28+08:00 ] 192.168.0.164 /index.php/Api/News/showNew/id/24
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000539s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000613s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000689s ]
+SQL: SHOW COLUMNS FROM `coal_news` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `coal_news` WHERE `id` = 24 LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000066s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000132s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007165s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007239s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000188s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000241s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000573s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000632s ]
+
+[ 2016-10-14T14:28:05+08:00 ] 192.168.0.164 /index.php/Api/Upload/baiduUpImg.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000486s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000602s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000682s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given /data/wwwroot/test.meiwenti.vip/ThinkPHP/Library/Think/Upload.class.php 第 170 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000537s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000611s ]
+
+[ 2016-10-14T14:28:15+08:00 ] 192.168.0.164 /index.php/Api/News/showNew/id/24
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000442s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000554s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000624s ]
+SQL: SHOW COLUMNS FROM `coal_news` [ RunTime:0.0008s ]
+SQL: SELECT * FROM `coal_news` WHERE `id` = 24 LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000062s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000117s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006440s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006501s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000166s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000210s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000514s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000563s ]
+
+[ 2016-10-14T14:30:55+08:00 ] 192.168.0.164 /index.php/Api/Upload/baiduUpImg.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000413s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000518s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000597s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given /data/wwwroot/test.meiwenti.vip/ThinkPHP/Library/Think/Upload.class.php 第 170 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000468s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000533s ]
+
+[ 2016-10-14T14:31:14+08:00 ] 192.168.0.164 /index.php/Api/News/showNew/id/24
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000478s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000605s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000678s ]
+SQL: SHOW COLUMNS FROM `coal_news` [ RunTime:0.0008s ]
+SQL: SELECT * FROM `coal_news` WHERE `id` = 24 LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000055s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000104s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005265s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005319s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000147s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000185s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000450s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000505s ]
+
+[ 2016-10-14T14:31:47+08:00 ] 192.168.0.164 /index.php/Api/News/showNew/id/24
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000408s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000384s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000434s ]
+SQL: SHOW COLUMNS FROM `coal_news` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `coal_news` WHERE `id` = 24 LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000050s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000094s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004790s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004838s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000136s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000171s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000433s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000473s ]
+
+[ 2016-10-14T14:32:19+08:00 ] 192.168.0.164 /index.php/Api/News/showNew/id/24
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000521s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000607s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000680s ]
+SQL: SHOW COLUMNS FROM `coal_news` [ RunTime:0.0008s ]
+SQL: SELECT * FROM `coal_news` WHERE `id` = 24 LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000051s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000097s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005120s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005175s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000139s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000175s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000442s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000484s ]
+
+[ 2016-10-14T14:34:03+08:00 ] 192.168.0.164 /index.php/Api/Upload/editorUpImg.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000353s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000450s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000507s ]
+NOTIC: [2048] Only variables should be passed by reference /data/wwwroot/test.meiwenti.vip/CoalApp/Api/Controller/UploadController.class.php 第 56 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000482s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000541s ]
+
+[ 2016-10-14T14:35:21+08:00 ] 192.168.0.164 /index.php/Api/Upload/editorUpImg.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000353s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000442s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000497s ]
+NOTIC: [2048] Only variables should be passed by reference /data/wwwroot/test.meiwenti.vip/CoalApp/Api/Controller/UploadController.class.php 第 56 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000481s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000538s ]
+
+[ 2016-10-14T14:36:07+08:00 ] 192.168.0.164 /index.php/Api/News/showNew/id/24
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000198s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000240s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000272s ]
+SQL: SHOW COLUMNS FROM `coal_news` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `coal_news` WHERE `id` = 24 LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000033s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000062s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.002871s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002903s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000091s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000114s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000262s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000289s ]
+
+[ 2016-10-14T14:36:23+08:00 ] 192.168.0.164 /index.php/Api/News/showNew/id/24
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000290s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000352s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000406s ]
+SQL: SHOW COLUMNS FROM `coal_news` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `coal_news` WHERE `id` = 24 LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000029s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000056s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.002606s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002635s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000085s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000106s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000239s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000266s ]
+
+[ 2016-10-14T14:37:37+08:00 ] 192.168.0.164 /index.php/Api/News/showNew/id/24
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000540s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000661s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000738s ]
+SQL: SHOW COLUMNS FROM `coal_news` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `coal_news` WHERE `id` = 24 LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000081s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000142s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006877s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006944s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000189s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000238s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000553s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000607s ]
+
+[ 2016-10-14T14:38:01+08:00 ] 192.168.0.164 /index.php/Api/News/showNew/id/24
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000223s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000296s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000333s ]
+SQL: SHOW COLUMNS FROM `coal_news` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `coal_news` WHERE `id` = 24 LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000035s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000066s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003109s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003143s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000097s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000120s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000295s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000323s ]
+
+[ 2016-10-14T14:38:20+08:00 ] 192.168.0.164 /index.php/Api/News/showNew/id/24
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000533s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000657s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000734s ]
+SQL: SHOW COLUMNS FROM `coal_news` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `coal_news` WHERE `id` = 24 LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000066s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000131s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006983s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007057s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000175s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000227s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000592s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000654s ]
+
+[ 2016-10-14T14:38:39+08:00 ] 192.168.0.164 /index.php/Api/News/showNew/id/24
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000532s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000664s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000741s ]
+SQL: SHOW COLUMNS FROM `coal_news` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `coal_news` WHERE `id` = 24 LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000064s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000122s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006771s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006837s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000173s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000220s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000561s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000615s ]
+
+[ 2016-10-14T14:40:22+08:00 ] 192.168.0.164 /index.php/Api/News/showNew/id/24
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000348s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000440s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000493s ]
+SQL: SHOW COLUMNS FROM `coal_news` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `coal_news` WHERE `id` = 24 LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000029s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000054s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.002559s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002601s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000084s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000103s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000244s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000270s ]
+
+[ 2016-10-14T14:48:49+08:00 ] 192.168.0.164 /index.php/Api/News/showNew/id/24
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000466s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000567s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000636s ]
+SQL: SHOW COLUMNS FROM `coal_news` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `coal_news` WHERE `id` = 24 LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000066s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000125s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006410s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006475s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000180s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000228s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000567s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000620s ]
+
+[ 2016-10-14T15:01:32+08:00 ] 192.168.0.164 /index.php/Api/News/listNews?pagenum=1&%5B%5D=%E5%8F%91%E9%80%81&%5B%5D=mock&_=1476428056896
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000390s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000492s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000554s ]
+SQL: SHOW COLUMNS FROM `coal_news` [ RunTime:0.0007s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `coal_news` LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT `id`,`title`,`creat_time`,`writer`,`description`,`click` FROM `coal_news` ORDER BY `order`,`creat_time` desc LIMIT 0,10   [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000418s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000463s ]
+
+[ 2016-10-14T15:01:57+08:00 ] 192.168.0.164 /index.php/Api/News/listNews?pagenum=1&%5B%5D=%E5%8F%91%E9%80%81&%5B%5D=mock&_=1476428056897
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000403s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000382s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000431s ]
+SQL: SHOW COLUMNS FROM `coal_news` [ RunTime:0.0007s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `coal_news` LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT `id`,`title`,`creat_time`,`writer`,`description`,`click` FROM `coal_news` ORDER BY `order`,`creat_time` desc LIMIT 0,10   [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000431s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000479s ]
+
+[ 2016-10-14T15:02:14+08:00 ] 192.168.0.164 /index.php/Api/News/listNews?pagenum=1&%5B%5D=%E5%8F%91%E9%80%81&%5B%5D=mock&_=1476428056898
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000189s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000238s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000269s ]
+SQL: SHOW COLUMNS FROM `coal_news` [ RunTime:0.0005s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `coal_news` LIMIT 1   [ RunTime:0.0001s ]
+ERR: 1054:Unknown column 'lit_pic' in 'field list'
+ [ SQL语句 ] : SELECT `id`,`title`,`creat_time`,`writer`,`description`,`lit_pic` FROM `coal_news` ORDER BY `order`,`creat_time` desc LIMIT 0,10  
+ERR: 1054:Unknown column 'lit_pic' in 'field list'
+ [ SQL语句 ] : SELECT `id`,`title`,`creat_time`,`writer`,`description`,`lit_pic` FROM `coal_news` ORDER BY `order`,`creat_time` desc LIMIT 0,10  
+
+[ 2016-10-14T15:02:36+08:00 ] 192.168.0.164 /index.php/Api/News/listNews?pagenum=1&%5B%5D=%E5%8F%91%E9%80%81&%5B%5D=mock&_=1476428056899
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000181s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000221s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000251s ]
+SQL: SHOW COLUMNS FROM `coal_news` [ RunTime:0.0005s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `coal_news` LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT `id`,`title`,`creat_time`,`writer`,`description`,`litpic` FROM `coal_news` ORDER BY `order`,`creat_time` desc LIMIT 0,10   [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000284s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000315s ]
+
+[ 2016-10-14T15:03:54+08:00 ] 192.168.0.164 /index.php/Api/News/listNews?pagenum=1&%5B%5D=%E5%8F%91%E9%80%81&%5B%5D=mock&_=1476428056900
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000539s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000615s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000691s ]
+SQL: SHOW COLUMNS FROM `coal_news` [ RunTime:0.0009s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `coal_news` LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT `id`,`title`,`creat_time`,`writer`,`description`,`litpic` FROM `coal_news` ORDER BY `order`,`creat_time` desc LIMIT 0,10   [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000671s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000746s ]
+
+[ 2016-10-14T15:03:59+08:00 ] 192.168.0.164 /index.php/Api/News/listNews?pagenum=3&%5B%5D=%E5%8F%91%E9%80%81&%5B%5D=mock&_=1476428056901
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000496s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000625s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000702s ]
+SQL: SHOW COLUMNS FROM `coal_news` [ RunTime:0.0008s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `coal_news` LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT `id`,`title`,`creat_time`,`writer`,`description`,`litpic` FROM `coal_news` ORDER BY `order`,`creat_time` desc LIMIT 20,10   [ RunTime:0.0006s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000605s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000668s ]
+
+[ 2016-10-14T15:04:26+08:00 ] 192.168.0.164 /index.php/Api/News/listNews?pagenum=1&%5B%5D=%E5%8F%91%E9%80%81&%5B%5D=mock&_=1476428056902
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000542s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000610s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000686s ]
+SQL: SHOW COLUMNS FROM `coal_news` [ RunTime:0.0009s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `coal_news` LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT `id`,`title`,`creat_time`,`writer`,`description`,`litpic` FROM `coal_news` ORDER BY `order`,`creat_time` desc LIMIT 0,10   [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000645s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000715s ]
+
+[ 2016-10-14T15:05:22+08:00 ] 192.168.0.164 /index.php/Api/News/listNews?pagenum=1&%5B%5D=%E5%8F%91%E9%80%81&%5B%5D=mock&_=1476428056903
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000540s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000648s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000726s ]
+SQL: SHOW COLUMNS FROM `coal_news` [ RunTime:0.0009s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `coal_news` LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT `id`,`title`,`creat_time`,`writer`,`description`,`litpic` FROM `coal_news` ORDER BY `order`,`creat_time` desc LIMIT 0,10   [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000590s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000653s ]
+
+[ 2016-10-14T15:06:26+08:00 ] 192.168.0.164 /index.php/Api/News/listNews?pagenum=1&%5B%5D=%E5%8F%91%E9%80%81&%5B%5D=mock&_=1476428056904
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000454s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000579s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000649s ]
+SQL: SHOW COLUMNS FROM `coal_news` [ RunTime:0.0008s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `coal_news` LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT `id`,`title`,`creat_time`,`writer`,`description`,`litpic` FROM `coal_news` ORDER BY `order`,`creat_time` desc LIMIT 0,10   [ RunTime:0.0003s ]
+NOTIC: [2] Illegal string offset 'litpic' /data/wwwroot/test.meiwenti.vip/CoalApp/Api/Controller/NewsController.class.php 第 34 行.
+NOTIC: [2] Illegal string offset 'litpic' /data/wwwroot/test.meiwenti.vip/CoalApp/Api/Controller/NewsController.class.php 第 34 行.
+NOTIC: [2] Cannot use a scalar value as an array /data/wwwroot/test.meiwenti.vip/CoalApp/Api/Controller/NewsController.class.php 第 34 行.
+NOTIC: [8] Undefined index: litpic /data/wwwroot/test.meiwenti.vip/CoalApp/Api/Controller/NewsController.class.php 第 34 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000580s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000639s ]
+
+[ 2016-10-14T15:07:03+08:00 ] 192.168.0.164 /index.php/Api/News/listNews?pagenum=1&%5B%5D=%E5%8F%91%E9%80%81&%5B%5D=mock&_=1476428056905
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000407s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000521s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000585s ]
+SQL: SHOW COLUMNS FROM `coal_news` [ RunTime:0.0008s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `coal_news` LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT `id`,`title`,`creat_time`,`writer`,`description`,`litpic` FROM `coal_news` ORDER BY `order`,`creat_time` desc LIMIT 0,10   [ RunTime:0.0003s ]
+NOTIC: [2] Illegal string offset 'litpic' /data/wwwroot/test.meiwenti.vip/CoalApp/Api/Controller/NewsController.class.php 第 34 行.
+NOTIC: [2] Illegal string offset 'litpic' /data/wwwroot/test.meiwenti.vip/CoalApp/Api/Controller/NewsController.class.php 第 34 行.
+NOTIC: [2] Cannot use a scalar value as an array /data/wwwroot/test.meiwenti.vip/CoalApp/Api/Controller/NewsController.class.php 第 34 行.
+NOTIC: [8] Undefined index: litpic /data/wwwroot/test.meiwenti.vip/CoalApp/Api/Controller/NewsController.class.php 第 34 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000559s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000614s ]
+
+[ 2016-10-14T15:07:04+08:00 ] 192.168.0.164 /index.php/Api/News/listNews?pagenum=1&%5B%5D=%E5%8F%91%E9%80%81&%5B%5D=mock&_=1476428056906
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000520s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000687s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000764s ]
+SQL: SHOW COLUMNS FROM `coal_news` [ RunTime:0.0009s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `coal_news` LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT `id`,`title`,`creat_time`,`writer`,`description`,`litpic` FROM `coal_news` ORDER BY `order`,`creat_time` desc LIMIT 0,10   [ RunTime:0.0002s ]
+NOTIC: [2] Illegal string offset 'litpic' /data/wwwroot/test.meiwenti.vip/CoalApp/Api/Controller/NewsController.class.php 第 34 行.
+NOTIC: [2] Illegal string offset 'litpic' /data/wwwroot/test.meiwenti.vip/CoalApp/Api/Controller/NewsController.class.php 第 34 行.
+NOTIC: [2] Cannot use a scalar value as an array /data/wwwroot/test.meiwenti.vip/CoalApp/Api/Controller/NewsController.class.php 第 34 行.
+NOTIC: [8] Undefined index: litpic /data/wwwroot/test.meiwenti.vip/CoalApp/Api/Controller/NewsController.class.php 第 34 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000593s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000651s ]
+
+[ 2016-10-14T15:07:18+08:00 ] 192.168.0.164 /index.php/Api/News/listNews?pagenum=1&%5B%5D=%E5%8F%91%E9%80%81&%5B%5D=mock&_=1476428056907
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000383s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000481s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000542s ]
+SQL: SHOW COLUMNS FROM `coal_news` [ RunTime:0.0008s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `coal_news` LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT `id`,`title`,`creat_time`,`writer`,`description`,`litpic` FROM `coal_news` ORDER BY `order`,`creat_time` desc LIMIT 0,10   [ RunTime:0.0002s ]
+NOTIC: [2] Illegal string offset 'litpic' /data/wwwroot/test.meiwenti.vip/CoalApp/Api/Controller/NewsController.class.php 第 34 行.
+NOTIC: [2] Illegal string offset 'litpic' /data/wwwroot/test.meiwenti.vip/CoalApp/Api/Controller/NewsController.class.php 第 34 行.
+NOTIC: [2] Cannot use a scalar value as an array /data/wwwroot/test.meiwenti.vip/CoalApp/Api/Controller/NewsController.class.php 第 34 行.
+NOTIC: [8] Undefined index: litpic /data/wwwroot/test.meiwenti.vip/CoalApp/Api/Controller/NewsController.class.php 第 34 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000560s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000612s ]
+
+[ 2016-10-14T15:07:19+08:00 ] 192.168.0.164 /index.php/Api/News/listNews?pagenum=1&%5B%5D=%E5%8F%91%E9%80%81&%5B%5D=mock&_=1476428056908
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000545s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000651s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000729s ]
+SQL: SHOW COLUMNS FROM `coal_news` [ RunTime:0.0009s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `coal_news` LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT `id`,`title`,`creat_time`,`writer`,`description`,`litpic` FROM `coal_news` ORDER BY `order`,`creat_time` desc LIMIT 0,10   [ RunTime:0.0003s ]
+NOTIC: [2] Illegal string offset 'litpic' /data/wwwroot/test.meiwenti.vip/CoalApp/Api/Controller/NewsController.class.php 第 34 行.
+NOTIC: [2] Illegal string offset 'litpic' /data/wwwroot/test.meiwenti.vip/CoalApp/Api/Controller/NewsController.class.php 第 34 行.
+NOTIC: [2] Cannot use a scalar value as an array /data/wwwroot/test.meiwenti.vip/CoalApp/Api/Controller/NewsController.class.php 第 34 行.
+NOTIC: [8] Undefined index: litpic /data/wwwroot/test.meiwenti.vip/CoalApp/Api/Controller/NewsController.class.php 第 34 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000663s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000734s ]
+
+[ 2016-10-14T15:07:19+08:00 ] 192.168.0.164 /index.php/Api/News/listNews?pagenum=1&%5B%5D=%E5%8F%91%E9%80%81&%5B%5D=mock&_=1476428056909
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000537s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000650s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000729s ]
+SQL: SHOW COLUMNS FROM `coal_news` [ RunTime:0.0009s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `coal_news` LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT `id`,`title`,`creat_time`,`writer`,`description`,`litpic` FROM `coal_news` ORDER BY `order`,`creat_time` desc LIMIT 0,10   [ RunTime:0.0003s ]
+NOTIC: [2] Illegal string offset 'litpic' /data/wwwroot/test.meiwenti.vip/CoalApp/Api/Controller/NewsController.class.php 第 34 行.
+NOTIC: [2] Illegal string offset 'litpic' /data/wwwroot/test.meiwenti.vip/CoalApp/Api/Controller/NewsController.class.php 第 34 行.
+NOTIC: [2] Cannot use a scalar value as an array /data/wwwroot/test.meiwenti.vip/CoalApp/Api/Controller/NewsController.class.php 第 34 行.
+NOTIC: [8] Undefined index: litpic /data/wwwroot/test.meiwenti.vip/CoalApp/Api/Controller/NewsController.class.php 第 34 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000639s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000704s ]
+
+[ 2016-10-14T15:08:01+08:00 ] 192.168.0.164 /index.php/Api/News/listNews?pagenum=1&%5B%5D=%E5%8F%91%E9%80%81&%5B%5D=mock&_=1476428056910
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000441s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000573s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000643s ]
+SQL: SHOW COLUMNS FROM `coal_news` [ RunTime:0.0009s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `coal_news` LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT `id`,`title`,`creat_time`,`writer`,`description`,`litpic` FROM `coal_news` ORDER BY `order`,`creat_time` desc LIMIT 0,10   [ RunTime:0.0003s ]
+NOTIC: [2] Illegal string offset 'litpic' /data/wwwroot/test.meiwenti.vip/CoalApp/Api/Controller/NewsController.class.php 第 34 行.
+NOTIC: [2] Illegal string offset 'litpic1' /data/wwwroot/test.meiwenti.vip/CoalApp/Api/Controller/NewsController.class.php 第 34 行.
+NOTIC: [2] Cannot use a scalar value as an array /data/wwwroot/test.meiwenti.vip/CoalApp/Api/Controller/NewsController.class.php 第 34 行.
+NOTIC: [8] Undefined index: litpic /data/wwwroot/test.meiwenti.vip/CoalApp/Api/Controller/NewsController.class.php 第 34 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000557s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000613s ]
+
+[ 2016-10-14T15:08:02+08:00 ] 192.168.0.164 /index.php/Api/News/listNews?pagenum=1&%5B%5D=%E5%8F%91%E9%80%81&%5B%5D=mock&_=1476428056911
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000267s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000325s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000367s ]
+SQL: SHOW COLUMNS FROM `coal_news` [ RunTime:0.0005s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `coal_news` LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT `id`,`title`,`creat_time`,`writer`,`description`,`litpic` FROM `coal_news` ORDER BY `order`,`creat_time` desc LIMIT 0,10   [ RunTime:0.0001s ]
+NOTIC: [2] Illegal string offset 'litpic' /data/wwwroot/test.meiwenti.vip/CoalApp/Api/Controller/NewsController.class.php 第 34 行.
+NOTIC: [2] Illegal string offset 'litpic1' /data/wwwroot/test.meiwenti.vip/CoalApp/Api/Controller/NewsController.class.php 第 34 行.
+NOTIC: [2] Cannot use a scalar value as an array /data/wwwroot/test.meiwenti.vip/CoalApp/Api/Controller/NewsController.class.php 第 34 行.
+NOTIC: [8] Undefined index: litpic /data/wwwroot/test.meiwenti.vip/CoalApp/Api/Controller/NewsController.class.php 第 34 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000247s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000274s ]
+
+[ 2016-10-14T15:08:04+08:00 ] 192.168.0.164 /index.php/Api/News/listNews?pagenum=1&%5B%5D=%E5%8F%91%E9%80%81&%5B%5D=mock&_=1476428056912
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000539s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000648s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000726s ]
+SQL: SHOW COLUMNS FROM `coal_news` [ RunTime:0.0009s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `coal_news` LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT `id`,`title`,`creat_time`,`writer`,`description`,`litpic` FROM `coal_news` ORDER BY `order`,`creat_time` desc LIMIT 0,10   [ RunTime:0.0003s ]
+NOTIC: [2] Illegal string offset 'litpic' /data/wwwroot/test.meiwenti.vip/CoalApp/Api/Controller/NewsController.class.php 第 34 行.
+NOTIC: [2] Illegal string offset 'litpic1' /data/wwwroot/test.meiwenti.vip/CoalApp/Api/Controller/NewsController.class.php 第 34 行.
+NOTIC: [2] Cannot use a scalar value as an array /data/wwwroot/test.meiwenti.vip/CoalApp/Api/Controller/NewsController.class.php 第 34 行.
+NOTIC: [8] Undefined index: litpic /data/wwwroot/test.meiwenti.vip/CoalApp/Api/Controller/NewsController.class.php 第 34 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000645s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000709s ]
+
+[ 2016-10-14T15:08:29+08:00 ] 192.168.0.164 /index.php/Api/News/listNews?pagenum=1&%5B%5D=%E5%8F%91%E9%80%81&%5B%5D=mock&_=1476428056913
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000523s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000626s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000703s ]
+SQL: SHOW COLUMNS FROM `coal_news` [ RunTime:0.0009s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `coal_news` LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT `id`,`title`,`creat_time`,`writer`,`description`,`litpic` FROM `coal_news` ORDER BY `order`,`creat_time` desc LIMIT 0,10   [ RunTime:0.0003s ]
+NOTIC: [2] Illegal string offset 'litpic' /data/wwwroot/test.meiwenti.vip/CoalApp/Api/Controller/NewsController.class.php 第 34 行.
+NOTIC: [2] Cannot use a scalar value as an array /data/wwwroot/test.meiwenti.vip/CoalApp/Api/Controller/NewsController.class.php 第 34 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000620s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000686s ]
+
+[ 2016-10-14T15:08:29+08:00 ] 192.168.0.164 /index.php/Api/News/listNews?pagenum=1&%5B%5D=%E5%8F%91%E9%80%81&%5B%5D=mock&_=1476428056914
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000415s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000533s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000596s ]
+SQL: SHOW COLUMNS FROM `coal_news` [ RunTime:0.0008s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `coal_news` LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT `id`,`title`,`creat_time`,`writer`,`description`,`litpic` FROM `coal_news` ORDER BY `order`,`creat_time` desc LIMIT 0,10   [ RunTime:0.0002s ]
+NOTIC: [2] Illegal string offset 'litpic' /data/wwwroot/test.meiwenti.vip/CoalApp/Api/Controller/NewsController.class.php 第 34 行.
+NOTIC: [2] Cannot use a scalar value as an array /data/wwwroot/test.meiwenti.vip/CoalApp/Api/Controller/NewsController.class.php 第 34 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000539s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000597s ]
+
+[ 2016-10-14T15:08:29+08:00 ] 192.168.0.164 /index.php/Api/News/listNews?pagenum=1&%5B%5D=%E5%8F%91%E9%80%81&%5B%5D=mock&_=1476428056915
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000240s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000291s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000329s ]
+SQL: SHOW COLUMNS FROM `coal_news` [ RunTime:0.0005s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `coal_news` LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT `id`,`title`,`creat_time`,`writer`,`description`,`litpic` FROM `coal_news` ORDER BY `order`,`creat_time` desc LIMIT 0,10   [ RunTime:0.0002s ]
+NOTIC: [2] Illegal string offset 'litpic' /data/wwwroot/test.meiwenti.vip/CoalApp/Api/Controller/NewsController.class.php 第 34 行.
+NOTIC: [2] Cannot use a scalar value as an array /data/wwwroot/test.meiwenti.vip/CoalApp/Api/Controller/NewsController.class.php 第 34 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000287s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000319s ]
+
+[ 2016-10-14T15:08:30+08:00 ] 192.168.0.164 /index.php/Api/News/listNews?pagenum=1&%5B%5D=%E5%8F%91%E9%80%81&%5B%5D=mock&_=1476428056916
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000200s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000258s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000291s ]
+SQL: SHOW COLUMNS FROM `coal_news` [ RunTime:0.0005s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `coal_news` LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT `id`,`title`,`creat_time`,`writer`,`description`,`litpic` FROM `coal_news` ORDER BY `order`,`creat_time` desc LIMIT 0,10   [ RunTime:0.0002s ]
+NOTIC: [2] Illegal string offset 'litpic' /data/wwwroot/test.meiwenti.vip/CoalApp/Api/Controller/NewsController.class.php 第 34 行.
+NOTIC: [2] Cannot use a scalar value as an array /data/wwwroot/test.meiwenti.vip/CoalApp/Api/Controller/NewsController.class.php 第 34 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000280s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000312s ]
+
+[ 2016-10-14T15:08:34+08:00 ] 192.168.0.164 /index.php/Api/News/listNews?pagenum=1&%5B%5D=%E5%8F%91%E9%80%81&%5B%5D=mock&_=1476428908899
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000540s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000613s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000722s ]
+SQL: SHOW COLUMNS FROM `coal_news` [ RunTime:0.0009s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `coal_news` LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT `id`,`title`,`creat_time`,`writer`,`description`,`litpic` FROM `coal_news` ORDER BY `order`,`creat_time` desc LIMIT 0,10   [ RunTime:0.0003s ]
+NOTIC: [2] Illegal string offset 'litpic' /data/wwwroot/test.meiwenti.vip/CoalApp/Api/Controller/NewsController.class.php 第 34 行.
+NOTIC: [2] Cannot use a scalar value as an array /data/wwwroot/test.meiwenti.vip/CoalApp/Api/Controller/NewsController.class.php 第 34 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000624s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000692s ]
+
+[ 2016-10-14T15:10:00+08:00 ] 192.168.0.164 /index.php/Api/News/listNews?pagenum=1&%5B%5D=%E5%8F%91%E9%80%81&%5B%5D=mock&_=1476428908900
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000524s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000622s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000697s ]
+SQL: SHOW COLUMNS FROM `coal_news` [ RunTime:0.0009s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `coal_news` LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT `id`,`title`,`creat_time`,`writer`,`description`,`litpic` FROM `coal_news` ORDER BY `order`,`creat_time` desc LIMIT 0,10   [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000619s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000689s ]
+
+[ 2016-10-14T15:10:34+08:00 ] 192.168.0.164 /index.php/Api/News/listNews?pagenum=1&%5B%5D=%E5%8F%91%E9%80%81&%5B%5D=mock&_=1476428908901
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000439s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000578s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000647s ]
+SQL: SHOW COLUMNS FROM `coal_news` [ RunTime:0.0008s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `coal_news` LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT `id`,`title`,`creat_time`,`writer`,`description`,`litpic` FROM `coal_news` ORDER BY `order`,`creat_time` desc LIMIT 0,10   [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000580s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000645s ]
+
+[ 2016-10-14T15:11:11+08:00 ] 192.168.0.164 /index.php/Api/News/listNews?pagenum=1&%5B%5D=%E5%8F%91%E9%80%81&%5B%5D=mock&_=1476428908902
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000361s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000456s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000513s ]
+SQL: SHOW COLUMNS FROM `coal_news` [ RunTime:0.0007s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `coal_news` LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT `id`,`title`,`creat_time`,`writer`,`description`,`litpic` FROM `coal_news` ORDER BY `order`,`creat_time` desc LIMIT 0,10   [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000480s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000534s ]
+
+[ 2016-10-14T15:22:52+08:00 ] 192.168.0.164 /index.php/Api/News/newDetail?id=&%5B%5D=%E5%8F%91%E9%80%81&%5B%5D=mock&_=1476428908903
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000424s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000493s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000553s ]
+ERR: 非法操作:newDetail
+
+[ 2016-10-14T15:23:02+08:00 ] 192.168.0.164 /index.php/Api/News/newDetail?id=&%5B%5D=%E5%8F%91%E9%80%81&%5B%5D=mock&_=1476428908904
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000181s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000220s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000250s ]
+
+[ 2016-10-14T15:23:05+08:00 ] 192.168.0.164 /index.php/Api/News/newDetail?id=1&%5B%5D=%E5%8F%91%E9%80%81&%5B%5D=mock&_=1476428908905
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000544s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000658s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000737s ]
+SQL: SHOW COLUMNS FROM `coal_news` [ RunTime:0.0009s ]
+SQL: SELECT `id`,`title` FROM `coal_news` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000674s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000749s ]
+
+[ 2016-10-14T15:23:47+08:00 ] 192.168.0.164 /index.php/Api/News/newDetail?id=1&%5B%5D=%E5%8F%91%E9%80%81&%5B%5D=mock&_=1476428908906
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000444s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000571s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000641s ]
+SQL: SHOW COLUMNS FROM `coal_news` [ RunTime:0.0007s ]
+SQL: SELECT `id`,`title` FROM `coal_news` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000493s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000548s ]
+
+[ 2016-10-14T15:24:17+08:00 ] 192.168.0.164 /index.php/Api/News/showNew/id/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000541s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000605s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000681s ]
+SQL: SHOW COLUMNS FROM `coal_news` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `coal_news` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000070s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000134s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007043s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007113s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000193s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000257s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000592s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000648s ]
+
+[ 2016-10-14T15:26:38+08:00 ] 192.168.0.164 /index.php/Api/News/newDetail?id=25&%5B%5D=%E5%8F%91%E9%80%81&%5B%5D=mock&_=1476428908907
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000411s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000520s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000585s ]
+SQL: SHOW COLUMNS FROM `coal_news` [ RunTime:0.0008s ]
+SQL: SELECT `id`,`title` FROM `coal_news` WHERE `id` = 25 LIMIT 1   [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000545s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000618s ]
+
+[ 2016-10-14T15:26:50+08:00 ] 192.168.0.164 /index.php/Api/News/newDetail?id=24&%5B%5D=%E5%8F%91%E9%80%81&%5B%5D=mock&_=1476428908908
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000537s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000670s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000748s ]
+SQL: SHOW COLUMNS FROM `coal_news` [ RunTime:0.0009s ]
+SQL: SELECT `id`,`title` FROM `coal_news` WHERE `id` = 24 LIMIT 1   [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000631s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000702s ]
+
+[ 2016-10-14T15:26:55+08:00 ] 192.168.0.164 /index.php/Api/News/newDetail?id=25&%5B%5D=%E5%8F%91%E9%80%81&%5B%5D=mock&_=1476428908909
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000523s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000619s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000695s ]
+SQL: SHOW COLUMNS FROM `coal_news` [ RunTime:0.0009s ]
+SQL: SELECT `id`,`title` FROM `coal_news` WHERE `id` = 25 LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000582s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000649s ]
+
+[ 2016-10-14T15:27:49+08:00 ] 192.168.0.164 /index.php/Api/News/newDetail?id=25&%5B%5D=%E5%8F%91%E9%80%81&%5B%5D=mock&_=1476428908910
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000473s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000625s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000699s ]
+SQL: SHOW COLUMNS FROM `coal_news` [ RunTime:0.0009s ]
+SQL: SELECT `id`,`title` FROM `coal_news` WHERE `id` = 25 LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000590s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000651s ]
+
+[ 2016-10-14T15:27:54+08:00 ] 192.168.0.164 /index.php/Api/News/newDetail?id=2&%5B%5D=%E5%8F%91%E9%80%81&%5B%5D=mock&_=1476428908911
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000403s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000381s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000430s ]
+SQL: SHOW COLUMNS FROM `coal_news` [ RunTime:0.0007s ]
+SQL: SELECT `id`,`title` FROM `coal_news` WHERE `id` = 2 LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000439s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000488s ]
+
+[ 2016-10-14T15:32:28+08:00 ] 192.168.0.164 /index.php/Api/Upload/baiduUpImg.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000543s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000607s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000686s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given /data/wwwroot/test.meiwenti.vip/ThinkPHP/Library/Think/Upload.class.php 第 170 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000645s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000727s ]
+
+[ 2016-10-14T15:40:41+08:00 ] 192.168.0.164 /index.php/Api/News/listNews?pagenum=1&%5B%5D=%E5%8F%91%E9%80%81&%5B%5D=mock&_=1476428908912
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000382s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000481s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000543s ]
+SQL: SHOW COLUMNS FROM `coal_news` [ RunTime:0.0008s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `coal_news` LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT `id`,`title`,`creat_time`,`writer`,`description`,`litpic` FROM `coal_news` ORDER BY `order`,`creat_time` desc LIMIT 0,10   [ RunTime:0.0006s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000513s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000570s ]
+
+[ 2016-10-14T15:41:54+08:00 ] 192.168.0.164 /index.php/Api/News/listNews?pagenum=2&%5B%5D=%E5%8F%91%E9%80%81&%5B%5D=mock&_=1476428908913
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000544s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000615s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000691s ]
+SQL: SHOW COLUMNS FROM `coal_news` [ RunTime:0.0009s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `coal_news` LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT `id`,`title`,`creat_time`,`writer`,`description`,`litpic` FROM `coal_news` ORDER BY `order`,`creat_time` desc LIMIT 10,10   [ RunTime:0.0007s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000600s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000665s ]
+
+[ 2016-10-14T15:42:00+08:00 ] 192.168.0.164 /index.php/Api/News/listNews?pagenum=3&%5B%5D=%E5%8F%91%E9%80%81&%5B%5D=mock&_=1476428908914
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000547s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000649s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000728s ]
+SQL: SHOW COLUMNS FROM `coal_news` [ RunTime:0.0009s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `coal_news` LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT `id`,`title`,`creat_time`,`writer`,`description`,`litpic` FROM `coal_news` ORDER BY `order`,`creat_time` desc LIMIT 20,10   [ RunTime:0.0006s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000640s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000707s ]
+
+[ 2016-10-14T18:09:25+08:00 ] 192.168.0.164 /index.php/Api/Add/getAprovince?%5B%5D=%E5%8F%91%E9%80%81&%5B%5D=mock&_=1476428908915
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000376s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000384s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000442s ]
+NOTIC: [8] Undefined variable: arr /data/wwwroot/test.meiwenti.vip/CoalApp/Common/Common/function.php 第 143 行.
+NOTIC: [8] Undefined variable: arr /data/wwwroot/test.meiwenti.vip/CoalApp/Common/Common/function.php 第 143 行.
+NOTIC: [8] Undefined variable: arr /data/wwwroot/test.meiwenti.vip/CoalApp/Common/Common/function.php 第 143 行.
+NOTIC: [8] Undefined variable: arr /data/wwwroot/test.meiwenti.vip/CoalApp/Common/Common/function.php 第 143 行.
+NOTIC: [8] Undefined variable: arr /data/wwwroot/test.meiwenti.vip/CoalApp/Common/Common/function.php 第 143 行.
+NOTIC: [8] Undefined variable: arr /data/wwwroot/test.meiwenti.vip/CoalApp/Common/Common/function.php 第 143 行.
+NOTIC: [8] Undefined variable: arr /data/wwwroot/test.meiwenti.vip/CoalApp/Common/Common/function.php 第 143 行.
+NOTIC: [8] Undefined variable: arr /data/wwwroot/test.meiwenti.vip/CoalApp/Common/Common/function.php 第 143 行.
+NOTIC: [8] Undefined variable: arr /data/wwwroot/test.meiwenti.vip/CoalApp/Common/Common/function.php 第 143 行.
+NOTIC: [8] Undefined variable: arr /data/wwwroot/test.meiwenti.vip/CoalApp/Common/Common/function.php 第 143 行.
+NOTIC: [8] Undefined variable: arr /data/wwwroot/test.meiwenti.vip/CoalApp/Common/Common/function.php 第 143 行.
+NOTIC: [8] Undefined variable: arr /data/wwwroot/test.meiwenti.vip/CoalApp/Common/Common/function.php 第 143 行.
+NOTIC: [8] Undefined variable: arr /data/wwwroot/test.meiwenti.vip/CoalApp/Common/Common/function.php 第 143 行.
+NOTIC: [8] Undefined variable: arr /data/wwwroot/test.meiwenti.vip/CoalApp/Common/Common/function.php 第 143 行.
+NOTIC: [8] Undefined variable: arr /data/wwwroot/test.meiwenti.vip/CoalApp/Common/Common/function.php 第 143 行.
+NOTIC: [8] Undefined variable: arr /data/wwwroot/test.meiwenti.vip/CoalApp/Common/Common/function.php 第 143 行.
+NOTIC: [8] Undefined variable: arr /data/wwwroot/test.meiwenti.vip/CoalApp/Common/Common/function.php 第 143 行.
+NOTIC: [8] Undefined variable: arr /data/wwwroot/test.meiwenti.vip/CoalApp/Common/Common/function.php 第 143 行.
+NOTIC: [8] Undefined variable: arr /data/wwwroot/test.meiwenti.vip/CoalApp/Common/Common/function.php 第 143 行.
+NOTIC: [8] Undefined variable: arr /data/wwwroot/test.meiwenti.vip/CoalApp/Common/Common/function.php 第 143 行.
+NOTIC: [8] Undefined variable: arr /data/wwwroot/test.meiwenti.vip/CoalApp/Common/Common/function.php 第 143 行.
+NOTIC: [8] Undefined variable: arr /data/wwwroot/test.meiwenti.vip/CoalApp/Common/Common/function.php 第 143 行.
+NOTIC: [8] Undefined variable: arr /data/wwwroot/test.meiwenti.vip/CoalApp/Common/Common/function.php 第 143 行.
+NOTIC: [8] Undefined variable: arr /data/wwwroot/test.meiwenti.vip/CoalApp/Common/Common/function.php 第 143 行.
+NOTIC: [8] Undefined variable: arr /data/wwwroot/test.meiwenti.vip/CoalApp/Common/Common/function.php 第 143 行.
+NOTIC: [8] Undefined variable: arr /data/wwwroot/test.meiwenti.vip/CoalApp/Common/Common/function.php 第 143 行.
+NOTIC: [8] Undefined variable: arr /data/wwwroot/test.meiwenti.vip/CoalApp/Common/Common/function.php 第 143 行.
+NOTIC: [8] Undefined variable: arr /data/wwwroot/test.meiwenti.vip/CoalApp/Common/Common/function.php 第 143 行.
+NOTIC: [8] Undefined variable: arr /data/wwwroot/test.meiwenti.vip/CoalApp/Common/Common/function.php 第 143 行.
+NOTIC: [8] Undefined variable: arr /data/wwwroot/test.meiwenti.vip/CoalApp/Common/Common/function.php 第 143 行.
+NOTIC: [8] Undefined variable: arr /data/wwwroot/test.meiwenti.vip/CoalApp/Common/Common/function.php 第 143 行.
+NOTIC: [8] Undefined variable: arr /data/wwwroot/test.meiwenti.vip/CoalApp/Common/Common/function.php 第 143 行.
+NOTIC: [8] Undefined variable: arr /data/wwwroot/test.meiwenti.vip/CoalApp/Common/Common/function.php 第 143 行.
+NOTIC: [8] Undefined variable: arr /data/wwwroot/test.meiwenti.vip/CoalApp/Common/Common/function.php 第 143 行.
+NOTIC: [8] Undefined variable: arr /data/wwwroot/test.meiwenti.vip/CoalApp/Common/Common/function.php 第 143 行.
+NOTIC: [8] Undefined variable: arr /data/wwwroot/test.meiwenti.vip/CoalApp/Common/Common/function.php 第 143 行.
+NOTIC: [8] Undefined variable: arr /data/wwwroot/test.meiwenti.vip/CoalApp/Common/Common/function.php 第 143 行.
+NOTIC: [8] Undefined variable: arr /data/wwwroot/test.meiwenti.vip/CoalApp/Common/Common/function.php 第 143 行.
+NOTIC: [8] Undefined variable: arr /data/wwwroot/test.meiwenti.vip/CoalApp/Common/Common/function.php 第 143 行.
+NOTIC: [8] Undefined variable: arr /data/wwwroot/test.meiwenti.vip/CoalApp/Common/Common/function.php 第 143 行.
+NOTIC: [8] Undefined variable: arr /data/wwwroot/test.meiwenti.vip/CoalApp/Common/Common/function.php 第 143 行.
+NOTIC: [8] Undefined variable: arr /data/wwwroot/test.meiwenti.vip/CoalApp/Common/Common/function.php 第 143 行.
+NOTIC: [8] Undefined variable: arr /data/wwwroot/test.meiwenti.vip/CoalApp/Common/Common/function.php 第 143 行.
+NOTIC: [8] Undefined variable: arr /data/wwwroot/test.meiwenti.vip/CoalApp/Common/Common/function.php 第 143 行.
+NOTIC: [8] Undefined variable: arr /data/wwwroot/test.meiwenti.vip/CoalApp/Common/Common/function.php 第 143 行.
+NOTIC: [8] Undefined variable: arr /data/wwwroot/test.meiwenti.vip/CoalApp/Common/Common/function.php 第 143 行.
+NOTIC: [8] Undefined variable: arr /data/wwwroot/test.meiwenti.vip/CoalApp/Common/Common/function.php 第 143 行.
+NOTIC: [8] Undefined variable: arr /data/wwwroot/test.meiwenti.vip/CoalApp/Common/Common/function.php 第 143 行.
+NOTIC: [8] Undefined variable: arr /data/wwwroot/test.meiwenti.vip/CoalApp/Common/Common/function.php 第 143 行.
+NOTIC: [8] Undefined variable: arr /data/wwwroot/test.meiwenti.vip/CoalApp/Common/Common/function.php 第 143 行.
+NOTIC: [8] Undefined variable: arr /data/wwwroot/test.meiwenti.vip/CoalApp/Common/Common/function.php 第 143 行.
+NOTIC: [8] Undefined variable: arr /data/wwwroot/test.meiwenti.vip/CoalApp/Common/Common/function.php 第 143 行.
+NOTIC: [8] Undefined variable: arr /data/wwwroot/test.meiwenti.vip/CoalApp/Common/Common/function.php 第 143 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000417s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000468s ]
+
+[ 2016-10-14T18:09:39+08:00 ] 192.168.0.164 /index.php/Api/Add/getShiqu?province=%E5%B9%BF%E4%B8%9C&%5B%5D=%E5%8F%91%E9%80%81&%5B%5D=mock&_=1476428908916
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000541s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000613s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000686s ]
+NOTIC: [8] Undefined variable: arr /data/wwwroot/test.meiwenti.vip/CoalApp/Common/Common/function.php 第 143 行.
+NOTIC: [8] Undefined variable: arr /data/wwwroot/test.meiwenti.vip/CoalApp/Common/Common/function.php 第 143 行.
+NOTIC: [8] Undefined variable: arr /data/wwwroot/test.meiwenti.vip/CoalApp/Common/Common/function.php 第 143 行.
+NOTIC: [8] Undefined variable: arr /data/wwwroot/test.meiwenti.vip/CoalApp/Common/Common/function.php 第 143 行.
+NOTIC: [8] Undefined variable: arr /data/wwwroot/test.meiwenti.vip/CoalApp/Common/Common/function.php 第 143 行.
+NOTIC: [8] Undefined variable: arr /data/wwwroot/test.meiwenti.vip/CoalApp/Common/Common/function.php 第 143 行.
+NOTIC: [8] Undefined variable: arr /data/wwwroot/test.meiwenti.vip/CoalApp/Common/Common/function.php 第 143 行.
+NOTIC: [8] Undefined variable: arr /data/wwwroot/test.meiwenti.vip/CoalApp/Common/Common/function.php 第 143 行.
+NOTIC: [8] Undefined variable: arr /data/wwwroot/test.meiwenti.vip/CoalApp/Common/Common/function.php 第 143 行.
+NOTIC: [8] Undefined variable: arr /data/wwwroot/test.meiwenti.vip/CoalApp/Common/Common/function.php 第 143 行.
+NOTIC: [8] Undefined variable: arr /data/wwwroot/test.meiwenti.vip/CoalApp/Common/Common/function.php 第 143 行.
+NOTIC: [8] Undefined variable: arr /data/wwwroot/test.meiwenti.vip/CoalApp/Common/Common/function.php 第 143 行.
+NOTIC: [8] Undefined variable: arr /data/wwwroot/test.meiwenti.vip/CoalApp/Common/Common/function.php 第 143 行.
+NOTIC: [8] Undefined variable: arr /data/wwwroot/test.meiwenti.vip/CoalApp/Common/Common/function.php 第 143 行.
+NOTIC: [8] Undefined variable: arr /data/wwwroot/test.meiwenti.vip/CoalApp/Common/Common/function.php 第 143 行.
+NOTIC: [8] Undefined variable: arr /data/wwwroot/test.meiwenti.vip/CoalApp/Common/Common/function.php 第 143 行.
+NOTIC: [8] Undefined variable: arr /data/wwwroot/test.meiwenti.vip/CoalApp/Common/Common/function.php 第 143 行.
+NOTIC: [8] Undefined variable: arr /data/wwwroot/test.meiwenti.vip/CoalApp/Common/Common/function.php 第 143 行.
+NOTIC: [8] Undefined variable: arr /data/wwwroot/test.meiwenti.vip/CoalApp/Common/Common/function.php 第 143 行.
+NOTIC: [8] Undefined variable: arr /data/wwwroot/test.meiwenti.vip/CoalApp/Common/Common/function.php 第 143 行.
+NOTIC: [8] Undefined variable: arr /data/wwwroot/test.meiwenti.vip/CoalApp/Common/Common/function.php 第 143 行.
+NOTIC: [8] Undefined variable: arr /data/wwwroot/test.meiwenti.vip/CoalApp/Common/Common/function.php 第 143 行.
+NOTIC: [8] Undefined variable: arr /data/wwwroot/test.meiwenti.vip/CoalApp/Common/Common/function.php 第 143 行.
+NOTIC: [8] Undefined variable: arr /data/wwwroot/test.meiwenti.vip/CoalApp/Common/Common/function.php 第 143 行.
+NOTIC: [8] Undefined variable: arr /data/wwwroot/test.meiwenti.vip/CoalApp/Common/Common/function.php 第 143 行.
+NOTIC: [8] Undefined variable: arr /data/wwwroot/test.meiwenti.vip/CoalApp/Common/Common/function.php 第 143 行.
+NOTIC: [8] Undefined variable: arr /data/wwwroot/test.meiwenti.vip/CoalApp/Common/Common/function.php 第 143 行.
+NOTIC: [8] Undefined variable: arr /data/wwwroot/test.meiwenti.vip/CoalApp/Common/Common/function.php 第 143 行.
+NOTIC: [8] Undefined variable: arr /data/wwwroot/test.meiwenti.vip/CoalApp/Common/Common/function.php 第 143 行.
+NOTIC: [8] Undefined variable: arr /data/wwwroot/test.meiwenti.vip/CoalApp/Common/Common/function.php 第 143 行.
+NOTIC: [8] Undefined variable: arr /data/wwwroot/test.meiwenti.vip/CoalApp/Common/Common/function.php 第 143 行.
+NOTIC: [8] Undefined variable: arr /data/wwwroot/test.meiwenti.vip/CoalApp/Common/Common/function.php 第 143 行.
+NOTIC: [8] Undefined variable: arr /data/wwwroot/test.meiwenti.vip/CoalApp/Common/Common/function.php 第 143 行.
+NOTIC: [8] Undefined variable: arr /data/wwwroot/test.meiwenti.vip/CoalApp/Common/Common/function.php 第 143 行.
+NOTIC: [8] Undefined variable: arr /data/wwwroot/test.meiwenti.vip/CoalApp/Common/Common/function.php 第 143 行.
+NOTIC: [8] Undefined variable: arr /data/wwwroot/test.meiwenti.vip/CoalApp/Common/Common/function.php 第 143 行.
+NOTIC: [8] Undefined variable: arr /data/wwwroot/test.meiwenti.vip/CoalApp/Common/Common/function.php 第 143 行.
+NOTIC: [8] Undefined variable: arr /data/wwwroot/test.meiwenti.vip/CoalApp/Common/Common/function.php 第 143 行.
+NOTIC: [8] Undefined variable: arr /data/wwwroot/test.meiwenti.vip/CoalApp/Common/Common/function.php 第 143 行.
+NOTIC: [8] Undefined variable: arr /data/wwwroot/test.meiwenti.vip/CoalApp/Common/Common/function.php 第 143 行.
+NOTIC: [8] Undefined variable: arr /data/wwwroot/test.meiwenti.vip/CoalApp/Common/Common/function.php 第 143 行.
+NOTIC: [8] Undefined variable: arr /data/wwwroot/test.meiwenti.vip/CoalApp/Common/Common/function.php 第 143 行.
+NOTIC: [8] Undefined variable: arr /data/wwwroot/test.meiwenti.vip/CoalApp/Common/Common/function.php 第 143 行.
+NOTIC: [8] Undefined variable: arr /data/wwwroot/test.meiwenti.vip/CoalApp/Common/Common/function.php 第 143 行.
+NOTIC: [8] Undefined variable: arr /data/wwwroot/test.meiwenti.vip/CoalApp/Common/Common/function.php 第 143 行.
+NOTIC: [8] Undefined variable: arr /data/wwwroot/test.meiwenti.vip/CoalApp/Common/Common/function.php 第 143 行.
+NOTIC: [8] Undefined variable: arr /data/wwwroot/test.meiwenti.vip/CoalApp/Common/Common/function.php 第 143 行.
+NOTIC: [8] Undefined variable: arr /data/wwwroot/test.meiwenti.vip/CoalApp/Common/Common/function.php 第 143 行.
+NOTIC: [8] Undefined variable: arr /data/wwwroot/test.meiwenti.vip/CoalApp/Common/Common/function.php 第 143 行.
+NOTIC: [8] Undefined variable: arr /data/wwwroot/test.meiwenti.vip/CoalApp/Common/Common/function.php 第 143 行.
+NOTIC: [8] Undefined variable: arr /data/wwwroot/test.meiwenti.vip/CoalApp/Common/Common/function.php 第 143 行.
+NOTIC: [8] Undefined variable: arr /data/wwwroot/test.meiwenti.vip/CoalApp/Common/Common/function.php 第 143 行.
+NOTIC: [8] Undefined variable: arr /data/wwwroot/test.meiwenti.vip/CoalApp/Common/Common/function.php 第 143 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000593s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000658s ]
+
+[ 2016-10-14T18:09:51+08:00 ] 192.168.0.164 /index.php/Api/Add/getDiqu?province=%E5%86%85%E8%92%99%E5%8F%A4&shiqu=%E9%84%82%E5%B0%94%E5%A4%9A%E6%96%AF&%5B%5D=%E5%8F%91%E9%80%81&%5B%5D=mock&_=1476428908917
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000533s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000612s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000686s ]
+NOTIC: [8] Undefined variable: arr /data/wwwroot/test.meiwenti.vip/CoalApp/Common/Common/function.php 第 143 行.
+NOTIC: [8] Undefined variable: arr /data/wwwroot/test.meiwenti.vip/CoalApp/Common/Common/function.php 第 143 行.
+NOTIC: [8] Undefined variable: arr /data/wwwroot/test.meiwenti.vip/CoalApp/Common/Common/function.php 第 143 行.
+NOTIC: [8] Undefined variable: arr /data/wwwroot/test.meiwenti.vip/CoalApp/Common/Common/function.php 第 143 行.
+NOTIC: [8] Undefined variable: arr /data/wwwroot/test.meiwenti.vip/CoalApp/Common/Common/function.php 第 143 行.
+NOTIC: [8] Undefined variable: arr /data/wwwroot/test.meiwenti.vip/CoalApp/Common/Common/function.php 第 143 行.
+NOTIC: [8] Undefined variable: arr /data/wwwroot/test.meiwenti.vip/CoalApp/Common/Common/function.php 第 143 行.
+NOTIC: [8] Undefined variable: arr /data/wwwroot/test.meiwenti.vip/CoalApp/Common/Common/function.php 第 143 行.
+NOTIC: [8] Undefined variable: arr /data/wwwroot/test.meiwenti.vip/CoalApp/Common/Common/function.php 第 143 行.
+NOTIC: [8] Undefined variable: arr /data/wwwroot/test.meiwenti.vip/CoalApp/Common/Common/function.php 第 143 行.
+NOTIC: [8] Undefined variable: arr /data/wwwroot/test.meiwenti.vip/CoalApp/Common/Common/function.php 第 143 行.
+NOTIC: [8] Undefined variable: arr /data/wwwroot/test.meiwenti.vip/CoalApp/Common/Common/function.php 第 143 行.
+NOTIC: [8] Undefined variable: arr /data/wwwroot/test.meiwenti.vip/CoalApp/Common/Common/function.php 第 143 行.
+NOTIC: [8] Undefined variable: arr /data/wwwroot/test.meiwenti.vip/CoalApp/Common/Common/function.php 第 143 行.
+NOTIC: [8] Undefined variable: arr /data/wwwroot/test.meiwenti.vip/CoalApp/Common/Common/function.php 第 143 行.
+NOTIC: [8] Undefined variable: arr /data/wwwroot/test.meiwenti.vip/CoalApp/Common/Common/function.php 第 143 行.
+NOTIC: [8] Undefined variable: arr /data/wwwroot/test.meiwenti.vip/CoalApp/Common/Common/function.php 第 143 行.
+NOTIC: [8] Undefined variable: arr /data/wwwroot/test.meiwenti.vip/CoalApp/Common/Common/function.php 第 143 行.
+NOTIC: [8] Undefined variable: arr /data/wwwroot/test.meiwenti.vip/CoalApp/Common/Common/function.php 第 143 行.
+NOTIC: [8] Undefined variable: arr /data/wwwroot/test.meiwenti.vip/CoalApp/Common/Common/function.php 第 143 行.
+NOTIC: [8] Undefined variable: arr /data/wwwroot/test.meiwenti.vip/CoalApp/Common/Common/function.php 第 143 行.
+NOTIC: [8] Undefined variable: arr /data/wwwroot/test.meiwenti.vip/CoalApp/Common/Common/function.php 第 143 行.
+NOTIC: [8] Undefined variable: arr /data/wwwroot/test.meiwenti.vip/CoalApp/Common/Common/function.php 第 143 行.
+NOTIC: [8] Undefined variable: arr /data/wwwroot/test.meiwenti.vip/CoalApp/Common/Common/function.php 第 143 行.
+NOTIC: [8] Undefined variable: arr /data/wwwroot/test.meiwenti.vip/CoalApp/Common/Common/function.php 第 143 行.
+NOTIC: [8] Undefined variable: arr /data/wwwroot/test.meiwenti.vip/CoalApp/Common/Common/function.php 第 143 行.
+NOTIC: [8] Undefined variable: arr /data/wwwroot/test.meiwenti.vip/CoalApp/Common/Common/function.php 第 143 行.
+NOTIC: [8] Undefined variable: arr /data/wwwroot/test.meiwenti.vip/CoalApp/Common/Common/function.php 第 143 行.
+NOTIC: [8] Undefined variable: arr /data/wwwroot/test.meiwenti.vip/CoalApp/Common/Common/function.php 第 143 行.
+NOTIC: [8] Undefined variable: arr /data/wwwroot/test.meiwenti.vip/CoalApp/Common/Common/function.php 第 143 行.
+NOTIC: [8] Undefined variable: arr /data/wwwroot/test.meiwenti.vip/CoalApp/Common/Common/function.php 第 143 行.
+NOTIC: [8] Undefined variable: arr /data/wwwroot/test.meiwenti.vip/CoalApp/Common/Common/function.php 第 143 行.
+NOTIC: [8] Undefined variable: arr /data/wwwroot/test.meiwenti.vip/CoalApp/Common/Common/function.php 第 143 行.
+NOTIC: [8] Undefined variable: arr /data/wwwroot/test.meiwenti.vip/CoalApp/Common/Common/function.php 第 143 行.
+NOTIC: [8] Undefined variable: arr /data/wwwroot/test.meiwenti.vip/CoalApp/Common/Common/function.php 第 143 行.
+NOTIC: [8] Undefined variable: arr /data/wwwroot/test.meiwenti.vip/CoalApp/Common/Common/function.php 第 143 行.
+NOTIC: [8] Undefined variable: arr /data/wwwroot/test.meiwenti.vip/CoalApp/Common/Common/function.php 第 143 行.
+NOTIC: [8] Undefined variable: arr /data/wwwroot/test.meiwenti.vip/CoalApp/Common/Common/function.php 第 143 行.
+NOTIC: [8] Undefined variable: arr /data/wwwroot/test.meiwenti.vip/CoalApp/Common/Common/function.php 第 143 行.
+NOTIC: [8] Undefined variable: arr /data/wwwroot/test.meiwenti.vip/CoalApp/Common/Common/function.php 第 143 行.
+NOTIC: [8] Undefined variable: arr /data/wwwroot/test.meiwenti.vip/CoalApp/Common/Common/function.php 第 143 行.
+NOTIC: [8] Undefined variable: arr /data/wwwroot/test.meiwenti.vip/CoalApp/Common/Common/function.php 第 143 行.
+NOTIC: [8] Undefined variable: arr /data/wwwroot/test.meiwenti.vip/CoalApp/Common/Common/function.php 第 143 行.
+NOTIC: [8] Undefined variable: arr /data/wwwroot/test.meiwenti.vip/CoalApp/Common/Common/function.php 第 143 行.
+NOTIC: [8] Undefined variable: arr /data/wwwroot/test.meiwenti.vip/CoalApp/Common/Common/function.php 第 143 行.
+NOTIC: [8] Undefined variable: arr /data/wwwroot/test.meiwenti.vip/CoalApp/Common/Common/function.php 第 143 行.
+NOTIC: [8] Undefined variable: arr /data/wwwroot/test.meiwenti.vip/CoalApp/Common/Common/function.php 第 143 行.
+NOTIC: [8] Undefined variable: arr /data/wwwroot/test.meiwenti.vip/CoalApp/Common/Common/function.php 第 143 行.
+NOTIC: [8] Undefined variable: arr /data/wwwroot/test.meiwenti.vip/CoalApp/Common/Common/function.php 第 143 行.
+NOTIC: [8] Undefined variable: arr /data/wwwroot/test.meiwenti.vip/CoalApp/Common/Common/function.php 第 143 行.
+NOTIC: [8] Undefined variable: arr /data/wwwroot/test.meiwenti.vip/CoalApp/Common/Common/function.php 第 143 行.
+NOTIC: [8] Undefined variable: arr /data/wwwroot/test.meiwenti.vip/CoalApp/Common/Common/function.php 第 143 行.
+NOTIC: [8] Undefined variable: arr /data/wwwroot/test.meiwenti.vip/CoalApp/Common/Common/function.php 第 143 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000586s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000654s ]
+

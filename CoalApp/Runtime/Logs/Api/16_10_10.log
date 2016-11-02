@@ -1,0 +1,33 @@
+[ 2016-10-10T10:03:28+08:00 ] 192.168.0.113 /index.php/Api/Trucker/reg/?acc=13584521441&pas=123456&name=%E4%BD%9B%E5%8D%97%E5%AE%AB&add=%E5%B9%BF%E4%B8%9C-%E6%B7%B1%E5%9C%B3&idcard_pic=&idcard_num=&ver_num=&%5B%5D=%E5%8F%91%E9%80%81&%5B%5D=mock&_=1476064981528
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000329s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000398s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000451s ]
+
+[ 2016-10-10T10:03:51+08:00 ] 192.168.0.113 /index.php/Api/Trucker/reg/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000305s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000402s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000450s ]
+
+[ 2016-10-10T10:34:02+08:00 ] 192.168.0.127 /index.php/Api/Trucker/reg/?acc=13584521441&pas=123456&name=%E4%BD%9B%E5%8D%97%E5%AE%AB&add=%E5%B9%BF%E4%B8%9C%E6%B7%B1%E5%9C%B3&ver_num=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000388s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000362s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000398s ]
+
+[ 2016-10-10T11:21:26+08:00 ] 192.168.0.113 /index.php/Api/Mes/regSendCode?tel_num=1111111111&%5B%5D=%E5%8F%91%E9%80%81&%5B%5D=mock&_=1476069677327
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000389s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000346s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000383s ]
+NOTIC: [8] Undefined index: result /data/wwwroot/test.meiwenti.vip/CoalApp/Api/Controller/MesController.class.php 第 32 行.
+

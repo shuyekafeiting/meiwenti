@@ -1,0 +1,12 @@
+[ 2016-10-26T14:28:49+08:00 ] 192.168.0.107 /index.php/favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000542s ]
+ERR: 无法加载模块:Favicon
+
+[ 2016-10-26T14:40:18+08:00 ] 192.168.0.107 /CoalApp/Admin/Public/js/jquery.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000417s ]
+ERR: 无法加载模块:CoalApp
+

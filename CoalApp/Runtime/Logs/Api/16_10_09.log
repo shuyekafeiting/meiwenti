@@ -1,0 +1,423 @@
+[ 2016-10-09T09:23:07+08:00 ] 192.168.0.193 /index.php/Api/Acc/login/?acc=13428718144&pas=123456&%5B%5D=%E5%8F%91%E9%80%81&%5B%5D=mock&_=1475976150612
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000451s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000572s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000642s ]
+SQL: SHOW COLUMNS FROM `coal_account` [ RunTime:0.0008s ]
+SQL: SELECT * FROM `coal_account` WHERE `account` = '13428718144' AND `password` = '2e2417a45bbb8cf1cca995b0cda2b40eed8fa287' LIMIT 1   [ RunTime:0.0004s ]
+
+[ 2016-10-09T10:06:15+08:00 ] 192.168.0.193 /index.php/Api/Acc/login/?acc=13428718144&pas=123456&%5B%5D=%E5%8F%91%E9%80%81&%5B%5D=mock&_=1475976150613
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000358s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000451s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000510s ]
+SQL: SHOW COLUMNS FROM `coal_account` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `coal_account` WHERE `account` = '13428718144' AND `password` = '2e2417a45bbb8cf1cca995b0cda2b40eed8fa287' LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2016-10-09T10:06:16+08:00 ] 192.168.0.193 /index.php/Api/Acc/login/?acc=13428718144&pas=123456&%5B%5D=%E5%8F%91%E9%80%81&%5B%5D=mock&_=1475976150614
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000522s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000679s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000764s ]
+SQL: SHOW COLUMNS FROM `coal_account` [ RunTime:0.0008s ]
+SQL: SELECT * FROM `coal_account` WHERE `account` = '13428718144' AND `password` = '2e2417a45bbb8cf1cca995b0cda2b40eed8fa287' LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2016-10-09T10:06:16+08:00 ] 192.168.0.193 /index.php/Api/Acc/login/?acc=13428718144&pas=123456&%5B%5D=%E5%8F%91%E9%80%81&%5B%5D=mock&_=1475976150615
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000267s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000354s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000399s ]
+SQL: SHOW COLUMNS FROM `coal_account` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `coal_account` WHERE `account` = '13428718144' AND `password` = '2e2417a45bbb8cf1cca995b0cda2b40eed8fa287' LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2016-10-09T10:06:17+08:00 ] 192.168.0.193 /index.php/Api/Acc/login/?acc=13428718144&pas=123456&%5B%5D=%E5%8F%91%E9%80%81&%5B%5D=mock&_=1475976150616
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000542s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000669s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000769s ]
+SQL: SHOW COLUMNS FROM `coal_account` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `coal_account` WHERE `account` = '13428718144' AND `password` = '2e2417a45bbb8cf1cca995b0cda2b40eed8fa287' LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2016-10-09T10:06:23+08:00 ] 192.168.0.193 /index.php/Api/Acc/login/?acc=13428718144&pas=123456&%5B%5D=%E5%8F%91%E9%80%81&%5B%5D=mock&_=1475976150617
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000525s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000681s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000767s ]
+SQL: SHOW COLUMNS FROM `coal_account` [ RunTime:0.0008s ]
+SQL: SELECT * FROM `coal_account` WHERE `account` = '13428718144' AND `password` = '2e2417a45bbb8cf1cca995b0cda2b40eed8fa287' LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2016-10-09T10:07:02+08:00 ] 192.168.0.193 /index.php/Api/Trucker/reg/?acc=13584521441&pas=123456&name=%E4%BD%9B%E5%8D%97%E5%AE%AB&add=%E5%B9%BF%E4%B8%9C-%E6%B7%B1%E5%9C%B3&idcard_pic=&idcard_num=&ver_num=&%5B%5D=%E5%8F%91%E9%80%81&%5B%5D=mock&_=1475976150618
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000424s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000535s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000601s ]
+
+[ 2016-10-09T10:07:02+08:00 ] 192.168.0.193 /index.php/Api/Trucker/reg/?acc=13584521441&pas=123456&name=%E4%BD%9B%E5%8D%97%E5%AE%AB&add=%E5%B9%BF%E4%B8%9C-%E6%B7%B1%E5%9C%B3&idcard_pic=&idcard_num=&ver_num=&%5B%5D=%E5%8F%91%E9%80%81&%5B%5D=mock&_=1475976150619
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000257s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000323s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000366s ]
+
+[ 2016-10-09T10:08:00+08:00 ] 192.168.0.193 /index.php/Api/Mes/regSendCode
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000523s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000671s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000754s ]
+
+[ 2016-10-09T10:16:46+08:00 ] 192.168.0.193 /index.php/Api/Mes/regSendCode?tel_num=1111111111&%5B%5D=%E5%8F%91%E9%80%81&%5B%5D=mock&_=1475976150620
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000479s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000622s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000699s ]
+NOTIC: [8] Undefined index: result /data/wwwroot/test.meiwenti.vip/CoalApp/Api/Controller/MesController.class.php 第 32 行.
+
+[ 2016-10-09T10:16:59+08:00 ] 192.168.0.193 /index.php/Api/Acc/login/?acc=13428718144&pas=123456&%5B%5D=%E5%8F%91%E9%80%81&%5B%5D=mock&_=1475979405664
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000386s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000483s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000545s ]
+SQL: SHOW COLUMNS FROM `coal_account` [ RunTime:0.0008s ]
+SQL: SELECT * FROM `coal_account` WHERE `account` = '13428718144' AND `password` = '2e2417a45bbb8cf1cca995b0cda2b40eed8fa287' LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2016-10-09T10:17:05+08:00 ] 192.168.0.193 /index.php/Api/Acc/login/?acc=13428718144&pas=123456&%5B%5D=%E5%8F%91%E9%80%81&%5B%5D=mock&_=1475979405665
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000492s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000620s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000698s ]
+SQL: SHOW COLUMNS FROM `coal_account` [ RunTime:0.0008s ]
+SQL: SELECT * FROM `coal_account` WHERE `account` = '13428718144' AND `password` = '2e2417a45bbb8cf1cca995b0cda2b40eed8fa287' LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2016-10-09T10:17:11+08:00 ] 192.168.0.193 /index.php/Api/Acc/login/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000323s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000387s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000435s ]
+SQL: SHOW COLUMNS FROM `coal_account` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `coal_account` WHERE `account` = '' AND `password` = '01c926232790e3535a8c39fbba84286199ad76c1' LIMIT 1   [ RunTime:0.0004s ]
+
+[ 2016-10-09T10:17:28+08:00 ] 192.168.0.193 /index.php/Api/Acc/login/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000519s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000670s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000772s ]
+SQL: SHOW COLUMNS FROM `coal_account` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `coal_account` WHERE `account` = '' AND `password` = '01c926232790e3535a8c39fbba84286199ad76c1' LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2016-10-09T10:17:31+08:00 ] 192.168.0.193 /index.php/Api/Acc/login/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000486s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000624s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000697s ]
+SQL: SHOW COLUMNS FROM `coal_account` [ RunTime:0.0008s ]
+SQL: SELECT * FROM `coal_account` WHERE `account` = '' AND `password` = '01c926232790e3535a8c39fbba84286199ad76c1' LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2016-10-09T10:26:42+08:00 ] 192.168.0.197 /index.php/Api/Acc/login/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000535s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000686s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000767s ]
+SQL: SHOW COLUMNS FROM `coal_account` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `coal_account` WHERE `account` = '' AND `password` = '01c926232790e3535a8c39fbba84286199ad76c1' LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2016-10-09T10:30:52+08:00 ] 192.168.0.193 /index.php/Api/Acc/login/&acc=13428718144&pas=123456
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000407s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000537s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000602s ]
+SQL: SHOW COLUMNS FROM `coal_account` [ RunTime:0.0008s ]
+SQL: SELECT * FROM `coal_account` WHERE `account` = '' AND `password` = '01c926232790e3535a8c39fbba84286199ad76c1' LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2016-10-09T10:30:57+08:00 ] 192.168.0.193 /index.php/Api/Acc/login/&acc=13428718144&pas=123456
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000534s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000695s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000776s ]
+SQL: SHOW COLUMNS FROM `coal_account` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `coal_account` WHERE `account` = '' AND `password` = '01c926232790e3535a8c39fbba84286199ad76c1' LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2016-10-09T10:30:57+08:00 ] 192.168.0.193 /index.php/Api/Acc/login/&acc=13428718144&pas=123456
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000518s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000683s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000764s ]
+SQL: SHOW COLUMNS FROM `coal_account` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `coal_account` WHERE `account` = '' AND `password` = '01c926232790e3535a8c39fbba84286199ad76c1' LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2016-10-09T10:30:57+08:00 ] 192.168.0.193 /index.php/Api/Acc/login/&acc=13428718144&pas=123456
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000528s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000703s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000785s ]
+SQL: SHOW COLUMNS FROM `coal_account` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `coal_account` WHERE `account` = '' AND `password` = '01c926232790e3535a8c39fbba84286199ad76c1' LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2016-10-09T10:30:58+08:00 ] 192.168.0.193 /index.php/Api/Acc/login/&acc=13428718144&pas=123456
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000313s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000393s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000441s ]
+SQL: SHOW COLUMNS FROM `coal_account` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `coal_account` WHERE `account` = '' AND `password` = '01c926232790e3535a8c39fbba84286199ad76c1' LIMIT 1   [ RunTime:0.0001s ]
+
+[ 2016-10-09T10:30:58+08:00 ] 192.168.0.193 /index.php/Api/Acc/login/&acc=13428718144&pas=123456
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000330s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000396s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000444s ]
+SQL: SHOW COLUMNS FROM `coal_account` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `coal_account` WHERE `account` = '' AND `password` = '01c926232790e3535a8c39fbba84286199ad76c1' LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2016-10-09T10:30:58+08:00 ] 192.168.0.193 /index.php/Api/Acc/login/&acc=13428718144&pas=123456
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000448s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000578s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000647s ]
+SQL: SHOW COLUMNS FROM `coal_account` [ RunTime:0.0008s ]
+SQL: SELECT * FROM `coal_account` WHERE `account` = '' AND `password` = '01c926232790e3535a8c39fbba84286199ad76c1' LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2016-10-09T10:30:59+08:00 ] 192.168.0.193 /index.php/Api/Acc/login/&acc=13428718144&pas=123456
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000449s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000582s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000651s ]
+SQL: SHOW COLUMNS FROM `coal_account` [ RunTime:0.0008s ]
+SQL: SELECT * FROM `coal_account` WHERE `account` = '' AND `password` = '01c926232790e3535a8c39fbba84286199ad76c1' LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2016-10-09T10:30:59+08:00 ] 192.168.0.193 /index.php/Api/Acc/login/&acc=13428718144&pas=123456
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000415s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000480s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000535s ]
+SQL: SHOW COLUMNS FROM `coal_account` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `coal_account` WHERE `account` = '' AND `password` = '01c926232790e3535a8c39fbba84286199ad76c1' LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2016-10-09T10:31:00+08:00 ] 192.168.0.193 /index.php/Api/Acc/login/&acc=13428718144&pas=123456
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000276s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000365s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000410s ]
+SQL: SHOW COLUMNS FROM `coal_account` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `coal_account` WHERE `account` = '' AND `password` = '01c926232790e3535a8c39fbba84286199ad76c1' LIMIT 1   [ RunTime:0.0001s ]
+
+[ 2016-10-09T10:31:01+08:00 ] 192.168.0.193 /index.php/Api/Acc/login/&acc=13428718144&pas=123456
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000520s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000690s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000771s ]
+SQL: SHOW COLUMNS FROM `coal_account` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `coal_account` WHERE `account` = '' AND `password` = '01c926232790e3535a8c39fbba84286199ad76c1' LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2016-10-09T10:31:02+08:00 ] 192.168.0.193 /index.php/Api/Acc/login/&acc=13428718144&pas=123456
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000314s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000402s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000454s ]
+SQL: SHOW COLUMNS FROM `coal_account` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `coal_account` WHERE `account` = '' AND `password` = '01c926232790e3535a8c39fbba84286199ad76c1' LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2016-10-09T10:31:06+08:00 ] 192.168.0.193 /index.php/Api/Acc/login/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000530s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000668s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000750s ]
+SQL: SHOW COLUMNS FROM `coal_account` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `coal_account` WHERE `account` = '' AND `password` = '01c926232790e3535a8c39fbba84286199ad76c1' LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2016-10-09T10:31:41+08:00 ] 192.168.0.197 /index.php/Api/Acc/login/&acc=13428718144&pas=123456
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000489s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000597s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000669s ]
+SQL: SHOW COLUMNS FROM `coal_account` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `coal_account` WHERE `account` = '' AND `password` = '01c926232790e3535a8c39fbba84286199ad76c1' LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2016-10-09T10:32:24+08:00 ] 192.168.0.193 /index.php/Api/Acc/login/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000443s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000565s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000633s ]
+SQL: SHOW COLUMNS FROM `coal_account` [ RunTime:0.0008s ]
+SQL: SELECT * FROM `coal_account` WHERE `account` = '' AND `password` = '01c926232790e3535a8c39fbba84286199ad76c1' LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2016-10-09T10:39:33+08:00 ] 192.168.0.197 /index.php/Api/Acc/login/&acc=13428718144&pas=123456
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000182s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000228s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000258s ]
+SQL: SHOW COLUMNS FROM `coal_account` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `coal_account` WHERE `account` = '' AND `password` = '01c926232790e3535a8c39fbba84286199ad76c1' LIMIT 1   [ RunTime:0.0001s ]
+
+[ 2016-10-09T10:39:33+08:00 ] 192.168.0.197 /index.php/Api/Acc/login/&acc=13428718144&pas=123456
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000180s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000220s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000248s ]
+SQL: SHOW COLUMNS FROM `coal_account` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `coal_account` WHERE `account` = '' AND `password` = '01c926232790e3535a8c39fbba84286199ad76c1' LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2016-10-09T10:45:52+08:00 ] 192.168.0.197 /index.php/Api/Acc/login/&acc=13428718144&pas=123456
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000435s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000564s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000631s ]
+SQL: SHOW COLUMNS FROM `coal_account` [ RunTime:0.0008s ]
+SQL: SELECT * FROM `coal_account` WHERE `account` = '' AND `password` = '01c926232790e3535a8c39fbba84286199ad76c1' LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2016-10-09T10:45:52+08:00 ] 192.168.0.197 /index.php/Api/Acc/login/&acc=13428718144&pas=123456
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000283s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000339s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000383s ]
+SQL: SHOW COLUMNS FROM `coal_account` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `coal_account` WHERE `account` = '' AND `password` = '01c926232790e3535a8c39fbba84286199ad76c1' LIMIT 1   [ RunTime:0.0001s ]
+
+[ 2016-10-09T10:46:26+08:00 ] 192.168.0.197 /index.php/Api/Acc/login/&acc=13428718144&pas=123456
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000476s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000625s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000699s ]
+SQL: SHOW COLUMNS FROM `coal_account` [ RunTime:0.0008s ]
+SQL: SELECT * FROM `coal_account` WHERE `account` = '' AND `password` = '01c926232790e3535a8c39fbba84286199ad76c1' LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2016-10-09T10:46:26+08:00 ] 192.168.0.197 /index.php/Api/Acc/login/&acc=13428718144&pas=123456
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000265s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000340s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000391s ]
+SQL: SHOW COLUMNS FROM `coal_account` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `coal_account` WHERE `account` = '' AND `password` = '01c926232790e3535a8c39fbba84286199ad76c1' LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2016-10-09T10:47:03+08:00 ] 192.168.0.197 /index.php/Api/Acc/login/&acc=13428718144&pas=123456
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000411s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000522s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000585s ]
+SQL: SHOW COLUMNS FROM `coal_account` [ RunTime:0.0008s ]
+SQL: SELECT * FROM `coal_account` WHERE `account` = '' AND `password` = '01c926232790e3535a8c39fbba84286199ad76c1' LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2016-10-09T10:47:03+08:00 ] 192.168.0.197 /index.php/Api/Acc/login/&acc=13428718144&pas=123456
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000286s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000354s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000398s ]
+SQL: SHOW COLUMNS FROM `coal_account` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `coal_account` WHERE `account` = '' AND `password` = '01c926232790e3535a8c39fbba84286199ad76c1' LIMIT 1   [ RunTime:0.0001s ]
+
+[ 2016-10-09T10:48:04+08:00 ] 192.168.0.197 /index.php/Api/Acc/login/&acc=13428718144&pas=123456
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000453s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000456s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000512s ]
+SQL: SHOW COLUMNS FROM `coal_account` [ RunTime:0.0008s ]
+SQL: SELECT * FROM `coal_account` WHERE `account` = '' AND `password` = '01c926232790e3535a8c39fbba84286199ad76c1' LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2016-10-09T10:48:04+08:00 ] 192.168.0.197 /index.php/Api/Acc/login/&acc=13428718144&pas=123456
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000199s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000252s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000285s ]
+SQL: SHOW COLUMNS FROM `coal_account` [ RunTime:0.0004s ]
+SQL: SELECT * FROM `coal_account` WHERE `account` = '' AND `password` = '01c926232790e3535a8c39fbba84286199ad76c1' LIMIT 1   [ RunTime:0.0001s ]
+
+[ 2016-10-09T17:59:51+08:00 ] 192.168.0.193 /index.php/Api/Acc/login/?acc=13428718144&pas=123456&%5B%5D=%E5%8F%91%E9%80%81&%5B%5D=mock&_=1476007183787
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000453s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000574s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000646s ]
+SQL: SHOW COLUMNS FROM `coal_account` [ RunTime:0.0008s ]
+SQL: SELECT * FROM `coal_account` WHERE `account` = '13428718144' AND `password` = '2e2417a45bbb8cf1cca995b0cda2b40eed8fa287' LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2016-10-09T17:59:55+08:00 ] 192.168.0.193 /index.php/Api/Acc/login/?acc=13428718144&pas=123456&%5B%5D=%E5%8F%91%E9%80%81&%5B%5D=mock&_=1476007183788
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000522s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000659s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000742s ]
+SQL: SHOW COLUMNS FROM `coal_account` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `coal_account` WHERE `account` = '13428718144' AND `password` = '2e2417a45bbb8cf1cca995b0cda2b40eed8fa287' LIMIT 1   [ RunTime:0.0002s ]
+

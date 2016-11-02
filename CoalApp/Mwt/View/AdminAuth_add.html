@@ -1,0 +1,96 @@
+﻿<include file="Public:head" />
+    <!--侧边开始  -->
+        <nav class="navbar-default navbar-side" role="navigation">
+            <div class="sidebar-collapse">
+                <ul class="nav" id="main-menu">
+
+                    <li>
+                        <a class="active-menu" href="#"><i class="fa fa-dashboard"></i>管理员权限管理<span class="fa arrow"></span></a>
+                        <ul class="nav nav-second-level">
+                            <li>
+                                <a  class="active-menu" href="{:U('AdminAuth/add')}">添加权限</a>
+                            </li>
+                            <li>
+                                <a href="{:U('AdminAuth/listAuth')}">权限列表</a>
+                            </li>
+                        </ul>
+                    </li>
+                </ul>
+
+            </div>
+
+        </nav>
+    <!-- 主体开始  -->
+        <div id="page-wrapper" >
+            <div id="page-inner">
+			 <div class="row">
+                    <div class="col-md-12">
+                        <h1 class="page-header">
+                            添加后台权限 <small>供后台管理进行管理权限添加</small>
+                        </h1>
+                    </div>
+                </div> 
+                 <!-- /. ROW  -->
+              <div class="row">
+                <div class="col-lg-12">
+                    <div class="panel panel-default">
+                        <div class="panel-heading">
+                            权限添加
+                        </div>
+                        <div class="panel-body">
+                            <div class="row">
+                                <div class="col-lg-12">
+                                    <form role="form" action="{:U('AdminAuth/do_add')}" method="post">
+                                        <div class="form-group col-lg-6">
+                                            <label>权限说明</label>
+                                            <input name="name" class="form-control">
+                                        </div>
+                                        <div class="form-group col-lg-6">
+                                            <label>所属父级权限(如果不填则为顶级的权限)</label>
+                                            <select name="aid" class="form-control">
+                                            <option value="0">顶级权限</option>
+                                            <foreach name="user_auth_level1" item="vo" >
+                                                <option value="{$vo.id}">{$vo.name}</option>
+                                            </foreach>
+                                            </select>
+                                        </div>
+                                        <div class="form-group col-lg-6">
+                                            <label>控制器</label>
+                                            <input name="controller" class="form-control">
+                                        </div>
+                                        <div class="form-group col-lg-6">
+                                            <label>操作</label>
+                                            <input name="action" class="form-control">
+                                        </div>
+                                        <div class="form-group col-lg-6">
+                                            <label>展示图标(二级权限无须填写)</label>
+                                            <input name="show_ico" class="form-control">
+                                        </div>
+                                        <div class="form-group col-lg-6">
+                                            <label>是否显示到菜单：</label>
+                                            <div class="radio">
+                                                <label>
+                                                    <input type="radio" value="1" name="is_show" id="optionsRadios1" value="option1" checked="" >显示
+                                                </label>
+                                            </div>
+                                            <div class="radio"> <label>
+                                               
+                                                    <input type="radio" value="0" name="is_show" id="optionsRadios2" value="option2" >不显示
+                                                </label>
+                                            </div>
+                                            
+                                        </div>
+                                        <button type="submit" class="btn btn-default">提交</button>
+                                    </form>
+                                </div>
+                                <!-- /.col-lg-6 (nested) -->
+                            </div>
+                            <!-- /.row (nested) -->
+                        </div>
+                        <!-- /.panel-body -->
+                    </div>
+                    <!-- /.panel -->
+                </div>
+                <!-- /.col-lg-12 -->
+            </div>
+<include file="Public:footer" />

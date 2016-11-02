@@ -1,0 +1,12 @@
+[ 2016-10-17T15:34:15+08:00 ] 192.168.0.113 /index.php/News/Power/listPower?%5B%5D=%E5%8F%91%E9%80%81&%5B%5D=mock&_=1476689416008
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000444s ]
+ERR: 无法加载模块:News
+
+[ 2016-10-17T15:34:22+08:00 ] 192.168.0.113 /index.php/News/Power/listPower?%5B%5D=%E5%8F%91%E9%80%81&%5B%5D=mock&_=1476689416009
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000309s ]
+ERR: 无法加载模块:News
+

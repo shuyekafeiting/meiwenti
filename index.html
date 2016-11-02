@@ -1,0 +1,30 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <meta name="viewport" content="initial-scale=1.0, user-scalable=no, width=device-width">
+    <style type="text/css">
+      body,html,#container{
+        height: 100%;
+        margin: 0px
+      }
+    </style>
+    <title>快速入门</title>
+    <script src="https://ajax.aspnetcdn.com/ajax/jQuery/jquery-1.8.0.js"></script>
+  </head>
+  <body>
+   <div id="container" tabindex="0"></div>
+   <script type="text/javascript">
+	   $.ajax({
+	  type: 'POST',
+	  url: "https://e710888d3ccb4638a723ff8d03837095-cn-qingdao.aliapi.com/demo/post",
+	  data: '{"inputs": [{"image": {"dataType": 50,"dataValue": "" }, "configure": {"dataType": 50,"dataValue": "{\"side\":\"face\"}"}}]}',
+	  success: function(){
+		alert(110);
+		},
+	  dataType: 'json'
+	});
+   </script>
+  </body>
+</html>

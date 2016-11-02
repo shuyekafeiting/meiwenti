@@ -1,0 +1,268 @@
+<?php
+/**
+ * Created by PhpStorm.
+ * User: Administrator
+ * Date: 2016/9/30
+ * Time: 13:44
+ * 各个账号类型注册用的控制器
+ */
+namespace Api\Controller;
+use Think\Controller;
+class RegController extends ApiController {
+    public function _initialize()
+    {
+        //判断验证码是否为空
+        if(!I('ver_num')){
+            $ret['code']=0;
+            $ret['message']='验证码不能为空';
+            die(json_encode($ret));
+        }
+        //判断手机验证码是否正确
+        if(I('ver_num')!==session('ver_num')){
+            $ret['code']=4;
+            $ret['ver_num']=I('ver_num');
+            $ret['ver_num1']=session('ver_num');
+            $ret['message']='手机验证码不正确';
+            die(json_encode($ret));
+        }
+        //判断账号是否已经注册
+        $res=M('account')->where(array('account'=>I('acc')))->find();
+        if($res){
+            $ret['code']=2;
+            $ret['message']='账号已经存在';
+            die(json_encode($ret));
+        }
+    }
+
+    /********************************************注册车主*********************************************/
+    public function regTruker()
+    {
+        //判断是否为空
+        if(!I('acc')||!I('pas')||!I('name')||!I('add')||!I('ver_num')){
+            $ret['code']=0;
+            $ret['message']='必要字段不能为空';
+            die(json_encode($ret));
+        }
+        //接收数据准备写入数据库
+        $data1['account']=I('acc');
+        $data1['password']=authcode(I('pas'),C('CODE_KEY'));
+        $data1['type']=3;
+        $data1['addate']=date('Y-m-d');
+        $data1['gps']=NULL;
+        $address=I('add');
+        $address=explode('-',$address);
+        $data1['add_p']=$address[0];
+        $data1['add_s']=$address[1];
+        $data1['add_q']=$address[2];
+        $data1['add_d']=$address[3];
+
+        $data2['name']=I('name');
+        $data2['address']=I('add');
+        //转义图片地址
+        $data2['idcard_pic']=stripslashes(I('idcard_pic'));
+        $data2['idcard_num']=I('idcard_num');
+        M()->startTrans();//开启事务
+        //添加主表
+        $res1=M('account')->add($data1);
+        $data2['aid']=$res1;
+        //添加附表
+        $res2=M('trucker')->add($data2);
+        if(!empty($res1)&&!empty($res2)){
+            //成功执行事务
+           M()->commit();
+           $ret['code']=1;
+           $ret['message']='success';
+           die(json_encode($ret));
+        }else{
+           M()->rollback();
+           $ret['code']=3;
+           $ret['message']='fail';
+           die(json_encode($ret));
+        }
+    }
+    /********************************************注册买家*********************************************/
+    public function regBuyer()
+    {
+        //判断是否为空
+        if(!I('acc')||!I('pas')||!I('name')||!I('add')||!I('ver_num')){
+            $ret['code']=0;
+            $ret['message']='必要字段不能为空';
+            die(json_encode($ret));
+        }
+        //接收数据准备写入数据库
+        $data1['account']=I('acc');
+        $data1['password']=authcode(I('pas'),C('CODE_KEY'));
+        $data1['type']=0;
+        $data1['addate']=date('Y-m-d');
+        $data1['gps']=NULL;
+        $address=I('add');
+        $address=explode('-',$address);
+        $data1['add_p']=$address[0];
+        $data1['add_s']=$address[1];
+        $data1['add_q']=$address[2];
+        $data1['add_d']=$address[3];
+
+
+        $data2['name']=I('name');
+        $data2['lic_number']=I('lic_number')?I('lic_number'):null;
+        $data2['lic_pic']=I('lic_pic')?stripslashes(I('lic_pic')):null;
+
+        M()->startTrans();//开启事务
+        //添加主表
+        $res1=M('account')->add($data1);
+        $data2['aid']=$res1;
+        //添加附表
+        $res2=M('buyer')->add($data2);
+        if(!empty($res1)&&!empty($res2)){
+            //成功执行事务
+            M()->commit();
+            $ret['code']=1;
+            $ret['message']='success';
+            die(json_encode($ret));
+        }else{
+            M()->rollback();
+            $ret['code']=3;
+            $ret['message']='fail';
+            die(json_encode($ret));
+        }
+    }
+    /****************************************************注册物流公司*******************************************/
+    public function regCompany(){
+        //判断是否为空
+        if(!I('acc')||!I('pas')||!I('name')||!I('add')||!I('ver_num')||!I('own_name')||!I('idcard_pic')||!I('idcard_num')||!I('lic_number')||!I('lic_pic')){
+            $ret['code']=0;
+            $ret['message']='必要字段不能为空';
+            die(json_encode($ret));
+        }
+        //接收数据
+        $data1['account']=I('acc');
+        $data1['password']=authcode(I('pas'),C('CODE_KEY'));
+        $data1['type']=2;
+        $data1['addate']=date('Y-m-d');
+        $data1['gps']=NULL;
+        $address=I('add');
+        $address=explode('-',$address);
+        $data1['add_p']=$address[0];
+        $data1['add_s']=$address[1];
+        $data1['add_q']=$address[2];
+        $data1['add_d']=$address[3];
+
+        $data2['own_name']=I('own_name');
+        $data2['idcard_pic']=stripslashes(I('idcard_pic'));
+        $data2['idcard_num']=I('idcard_num');
+        $data2['name']=I('name');
+        $data2['lic_number']=I('lic_number');
+        $data2['lic_pic']=stripslashes(I('lic_pic'));
+
+        M()->startTrans();//开启事务
+        //添加主表信息
+        $res1=M('account')->add($data1);
+        $data2['aid']=$res1;
+        //添加附表
+        $res2=M('company')->add($data2);
+        if(!empty($res1)&&!empty($res2)){
+            //成功执行事务
+            M()->commit();
+            $ret['code']=1;
+            $ret['message']='success';
+            die(json_encode($ret));
+        }else{
+            M()->rollback();
+            $ret['code']=3;
+            $ret['message']='fail';
+            die(json_encode($ret));
+        }
+    }
+    /****************************************************注册司机*******************************************/
+    public function regDriver(){
+        //判断是否为空
+        if(!I('acc')||!I('pas')||!I('add')||!I('ver_num')||!I('name')||!I('idcard_pic')||!I('idcard_num')||!I('lic_pic')||!I('lic_number')||!I('lic_level')||!I('lic_endtime')){
+            $ret['code']=0;
+            $ret['message']='必要字段不能为空';
+            die(json_encode($ret));
+        }
+        //接收数据
+        $data1['account']=I('acc');
+        $data1['password']=authcode(I('pas'),C('CODE_KEY'));
+        $data1['type']=4;
+        $data1['addate']=date('Y-m-d');
+        $data1['gps']=NULL;
+        $address=I('add');
+        $address=explode('-',$address);
+        $data1['add_p']=$address[0];
+        $data1['add_s']=$address[1];
+        $data1['add_q']=$address[2];
+        $data1['add_d']=$address[3];
+
+        $data2['name']=I('name');
+        $data2['idcard_pic']=stripslashes(I('idcard_pic'));
+        $data2['idcard_num']=I('idcard_num');
+        $data2['lic_pic']=I('lic_pic')?stripslashes(I('lic_pic')):null;
+        $data2['lic_number']=I('lic_number')?I('lic_number'):null;
+        $data2['lic_level']=I('lic_level')?I('lic_level'):null;
+        $data2['lic_endtime']=I('lic_endtime')?I('lic_endtime'):null;
+
+        M()->startTrans();//开启事务
+        //添加主表
+        $res1=M('account')->add($data1);
+        $data2['aid']=$res1;
+        //添加附表
+        $res2=M('driver')->add($data2);
+        if(!empty($res1)&&!empty($res2)){
+            //成功执行事务
+            M()->commit();
+            $ret['code']=1;
+            $ret['message']='success';
+            die(json_encode($ret));
+        }else{
+            M()->rollback();
+            $ret['code']=3;
+            $ret['message']='fail';
+            die(json_encode($ret));
+        }
+    }
+    /****************************************************注册卖方*******************************************/
+    public function regSeller(){
+        //判断是否为空
+        if(!I('acc')||!I('pas')||!I('name')||!I('add')||!I('ver_num')){
+            $ret['code']=0;
+            $ret['message']='必要字段不能为空';
+            die(json_encode($ret));
+        }
+        //接收数据准备写入数据库
+        $data1['account']=I('acc');
+        $data1['password']=authcode(I('pas'),C('CODE_KEY'));
+        $data1['type']=1;
+        $data1['addate']=date('Y-m-d');
+        $data1['gps']=NULL;
+        $address=I('add');
+        $address=explode('-',$address);
+        $data1['add_p']=$address[0];
+        $data1['add_s']=$address[1];
+        $data1['add_q']=$address[2];
+        $data1['add_d']=$address[3];
+
+
+        $data2['name']=I('name');
+        $data2['lic_number']=I('lic_number')?I('lic_number'):null;
+        $data2['lic_pic']=I('lic_pic')?stripslashes(I('lic_pic')):null;
+        M()->startTrans();//开启事务
+        //添加主表
+        $res1=M('account')->add($data1);
+        $data2['aid']=$res1;
+        //添加附表
+        $res2=M('seller')->add($data2);
+        if(!empty($res1)&&!empty($res2)){
+            //成功执行事务
+            M()->commit();
+            $ret['code']=1;
+            $ret['message']='success';
+            die(json_encode($ret));
+        }else{
+            M()->rollback();
+            $ret['code']=3;
+            $ret['message']='fail';
+            die(json_encode($ret));
+        }
+    }
+}

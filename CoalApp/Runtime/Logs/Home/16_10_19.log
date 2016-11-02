@@ -1,0 +1,9 @@
+[ 2016-10-19T10:36:18+08:00 ] 192.168.0.107 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000388s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000360s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000396s ]
+ERR: 模板不存在:./CoalApp/Home/View/Index_index.html
+

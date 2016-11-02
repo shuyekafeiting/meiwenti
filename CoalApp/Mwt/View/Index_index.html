@@ -1,0 +1,143 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>煤问题权限管理后台</title>
+    <!-- Bootstrap Styles-->
+    <link href="__PUBLIC__/css/bootstrap.css" rel="stylesheet" />
+    <!-- FontAwesome Styles-->
+    <link href="__PUBLIC__/css/font-awesome.css" rel="stylesheet" />
+    <!-- Morris Chart Styles-->
+    <link href="__PUBLIC__/js/morris/morris-0.4.3.min.css" rel="stylesheet" />
+    <!-- Custom Styles-->
+    <link href="__PUBLIC__/css/custom-styles.css" rel="stylesheet" />
+    <!-- Google Fonts-->
+    <link href='http://fonts.useso.com/css?family=Open+Sans' rel='stylesheet' type='text/css' />
+</head>
+<body>
+    <div id="wrapper">
+    <!--顶部开始-->
+        <nav class="navbar navbar-default top-navbar" role="navigation">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".sidebar-collapse">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand" href="{:U('Index/index')}">煤问题</a>
+            </div>
+
+            <ul class="nav navbar-top-links navbar-right">
+                <li class="dropdown">
+                    <a class="dropdown-toggle" data-toggle="dropdown" href="#" aria-expanded="false">
+                        <i class="fa fa-user fa-fw"></i> <i class="fa fa-caret-down"></i>
+                    </a>
+                    <ul class="dropdown-menu dropdown-user">
+                        <li><a href="#"><i class="fa fa-gear fa-fw"></i> Settings</a>
+                        </li>
+                        <li class="divider"></li>
+                        <li><a href="{:U('Login/loginOut')}"><i class="fa fa-sign-out fa-fw"></i> Logout</a>
+                        </li>
+                    </ul>
+                    <!-- /.dropdown-user -->
+                </li>
+            </ul>
+        </nav>
+    <!--侧边开始  -->
+        <nav class="navbar-default navbar-side" role="navigation">
+            <div class="sidebar-collapse">
+                <ul class="nav" id="main-menu">
+                    <li>
+                        <a class="active-menu" href="#"><i class="fa fa-dashboard"></i>管理员权限管理<span class="fa arrow"></span></a>
+                        <ul class="nav nav-second-level">
+                            <li>
+                                <a href="{:U('AdminAuth/add')}">添加权限</a>
+                            </li>
+                            <li>
+                                <a href="{:U('AdminAuth/list')}">权限列表</a>
+                            </li>
+                        </ul>
+                    </li>
+                </ul>
+
+            </div>
+
+        </nav>
+    <!-- 主体开始  -->
+        <div id="page-wrapper" >
+            <div id="page-inner">
+			 <div class="row">
+                    <div class="col-md-12">
+                        <h1 class="page-header">
+                            添加后台权限 <small>供后台管理进行管理权限添加</small>
+                        </h1>
+                    </div>
+                </div> 
+                 <!-- /. ROW  -->
+              <div class="row">
+                <div class="col-lg-12">
+                    <div class="panel panel-default">
+                        <div class="panel-heading">
+                            权限添加
+                        </div>
+                        <div class="panel-body">
+                            <div class="row">
+                                <div class="col-lg-12">
+                                    <form role="form" action="{:U('Admin_auth/do_add')}" method="post">
+                                        <div class="form-group col-lg-6">
+                                            <label>权限说明</label>
+                                            <input class="form-control">
+                                        </div>
+                                        <div class="form-group col-lg-6">
+                                            <label>所属父级权限(如果不填则为顶级的权限)</label>
+                                            <select class="form-control">
+                                                <option>1</option>
+                                                <option>2</option>
+                                                <option>3</option>
+                                                <option>4</option>
+                                                <option>5</option>
+                                            </select>
+                                        </div>
+                                        <div class="form-group col-lg-6">
+                                            <label>控制器</label>
+                                            <input class="form-control">
+                                        </div>
+                                        <div class="form-group col-lg-6">
+                                            <label>操作</label>
+                                            <input class="form-control">
+                                        </div>
+                                        
+                                        <button type="submit" class="btn btn-default">提交</button>
+                                    </form>
+                                </div>
+                                <!-- /.col-lg-6 (nested) -->
+                            </div>
+                            <!-- /.row (nested) -->
+                        </div>
+                        <!-- /.panel-body -->
+                    </div>
+                    <!-- /.panel -->
+                </div>
+                <!-- /.col-lg-12 -->
+            </div>
+			<footer><p>Copyright &copy; 2016.Company name All rights reserved.<a target="_blank" href="#">卓创信息科技</a></p></footer>
+			</div>
+             <!-- /. PAGE INNER  -->
+            </div>
+    </div>
+    <!-- jQuery Js -->
+    <script src="__PUBLIC__/js/jquery-1.10.2.js"></script>
+    <!-- Bootstrap Js -->
+    <script src="__PUBLIC__/js/bootstrap.min.js"></script>
+    <!-- Metis Menu Js -->
+    <script src="__PUBLIC__/js/jquery.metisMenu.js"></script>
+    <!-- Morris Chart Js -->
+    <script src="__PUBLIC__/js/morris/raphael-2.1.0.min.js"></script>
+    <script src="__PUBLIC__/js/morris/morris.js"></script>
+    <!-- Custom Js -->
+    <script src="__PUBLIC__/js/custom-scripts.js"></script>
+</body>
+
+</html>
